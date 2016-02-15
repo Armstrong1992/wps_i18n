@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es_MX">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KHomepage</name>
     <message>
@@ -47,6 +48,11 @@
         <source>Online Templates</source>
         <comment>title</comment>
         <translation>Plantillas en línea</translation>
+    </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

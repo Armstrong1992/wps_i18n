@@ -122,10 +122,7 @@
     </message>
     <message>
         <source>Aqua</source>
-        <translation variants="yes">
-            <lengthvariant>Akwamaryna</lengthvariant>
-            <lengthvariant>Niebieskozielony</lengthvariant>
-        </translation>
+        <translation>Akwamaryna</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -193,10 +190,7 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation variants="yes">
-            <lengthvariant>Liliowy</lengthvariant>
-            <lengthvariant>Lawendowy</lengthvariant>
-        </translation>
+        <translation>Liliowy</translation>
     </message>
     <message>
         <source>Sky Blue</source>
@@ -204,10 +198,7 @@
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation variants="yes">
-            <lengthvariant>Jasnoturkusowy</lengthvariant>
-            <lengthvariant>Pastelowobłękitny</lengthvariant>
-        </translation>
+        <translation>Jasnoturkusowy</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -302,10 +293,7 @@
     </message>
     <message>
         <source>Change Case</source>
-        <translation variants="yes">
-            <lengthvariant>Zmień wielkość liter</lengthvariant>
-            <lengthvariant>Zmienianie wielkości liter</lengthvariant>
-        </translation>
+        <translation>Zmienianie wielkości liter</translation>
     </message>
 </context>
 <context>
@@ -369,208 +357,203 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>Advanced Layout</source>
-        <translation>Układ zaawansowany</translation>
+        <translation type="obsolete">Układ zaawansowany</translation>
     </message>
     <message>
         <source>Picture Position</source>
-        <translation>Położenie obrazu</translation>
+        <translation type="obsolete">Położenie obrazu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translation type="obsolete">Poziomo</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation>&amp;Wyrównanie</translation>
+        <translation type="obsolete">&amp;Wyrównanie</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Do lewej</translation>
+        <translation type="obsolete">Do lewej</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation type="obsolete">Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Po prawej</translation>
+        <translation type="obsolete">Po prawej</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation>&amp;Położenie bezwzględne</translation>
+        <translation type="obsolete">&amp;Położenie bezwzględne</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
-        <translation>pkt, 2, -1596, 1596, 1</translation>
+        <translation type="obsolete">pkt, 2, -1596, 1596, 1</translation>
     </message>
     <message>
         <source>&amp;relative to</source>
-        <translation>&amp;względnie do</translation>
+        <translation type="obsolete">&amp;względnie do</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation>Margines</translation>
+        <translation type="obsolete">Margines</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>Strona</translation>
+        <translation type="obsolete">Strona</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation>Kolumna</translation>
+        <translation type="obsolete">Kolumna</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>Znak</translation>
+        <translation type="obsolete">Znak</translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation>&amp;do prawej</translation>
+        <translation type="obsolete">&amp;do prawej</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translation type="obsolete">Pionowo</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation>Wyrównani&amp;e</translation>
+        <translation type="obsolete">Wyrównani&amp;e</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Do góry</translation>
+        <translation type="obsolete">Do góry</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Do dołu</translation>
+        <translation type="obsolete">Do dołu</translation>
     </message>
     <message>
         <source>Inside</source>
-        <translatorcomment>Wewnętrzny</translatorcomment>
-        <translation>Wewnątrz</translation>
+        <translation type="obsolete">Wewnątrz</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translatorcomment>Zewnętrzny</translatorcomment>
-        <translation>Na zewnątrz</translation>
+        <translation type="obsolete">Na zewnątrz</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation>Położenie &amp;bezwzględne</translation>
+        <translation type="obsolete">Położenie &amp;bezwzględne</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Akapit</translation>
+        <translation type="obsolete">Akapit</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>Linia</translation>
+        <translation type="obsolete">Linia</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation>w&amp;zględnie do</translation>
+        <translation type="obsolete">w&amp;zględnie do</translation>
     </message>
     <message>
         <source>belo&amp;w</source>
-        <translation>poniże&amp;j</translation>
+        <translation type="obsolete">poniże&amp;j</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Opcje</translation>
+        <translation type="obsolete">Opcje</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation>&amp;Przenieś obiekt z tekstem</translation>
+        <translation type="obsolete">&amp;Przenieś obiekt z tekstem</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
-        <translation>Zezwalaj na z&amp;achodzenie</translation>
+        <translation type="obsolete">Zezwalaj na z&amp;achodzenie</translation>
     </message>
     <message>
         <source>&amp;Lock anchor</source>
-        <translation>&amp;Zablokuj kotwicę</translation>
+        <translation type="obsolete">&amp;Zablokuj kotwicę</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation>Styl otaczania</translation>
+        <translation type="obsolete">Styl otaczania</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation>K&amp;wadrat</translation>
+        <translation type="obsolete">K&amp;wadrat</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation>&amp;Przylegle</translation>
+        <translation type="obsolete">&amp;Przylegle</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
-        <translation>P&amp;rzez</translation>
+        <translation type="obsolete">Na w&amp;skroś</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation>Od &amp;góry i dołu</translation>
+        <translation type="obsolete">&amp;Góra i dół</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation>Za tek&amp;stem</translation>
+        <translation type="obsolete">Za tek&amp;stem</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation>&amp;Równo z tekstem</translation>
+        <translation type="obsolete">&amp;Równo z tekstem</translation>
     </message>
     <message>
         <source>Wrap text</source>
-        <translation>Zawijaj tekst</translation>
+        <translation type="obsolete">Zawijaj tekst</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation>Po obu &amp;stronach</translation>
+        <translation type="obsolete">Po obu &amp;stronach</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation>Tylko w &amp;lewo</translation>
+        <translation type="obsolete">Tylko w &amp;lewo</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation>Tylko w &amp;prawo</translation>
+        <translation type="obsolete">Tylko w &amp;prawo</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation>Tylko &amp;największa</translation>
+        <translation type="obsolete">Tylko &amp;największa</translation>
     </message>
     <message>
         <source>Distance from text</source>
-        <translation>Odległość od tekstu</translation>
+        <translation type="obsolete">Odległość od tekstu</translation>
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation>Do &amp;góry</translation>
+        <translation type="obsolete">Z &amp;góry</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation>pkt, 2, 0, 1584, 1</translation>
+        <translation type="obsolete">pkt, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translation>Do &amp;lewej</translation>
+        <translation type="obsolete">Z &amp;lewej</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
-        <translation>Do &amp;dołu</translation>
+        <translation type="obsolete">Z &amp;dołu</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
-        <translation>Po &amp;prawej</translation>
+        <translation type="obsolete">Z &amp;prawej</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation>Zawijanie tekstu</translation>
+        <translation type="obsolete">Zawijanie tekstu</translation>
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
-        <translation>Prz&amp;ed tekstem</translation>
+        <translation type="obsolete">Prz&amp;ed tekstem</translation>
     </message>
 </context>
 <context>
@@ -585,11 +568,11 @@
     </message>
     <message>
         <source>&amp;One</source>
-        <translation>&amp;Jeden</translation>
+        <translation>&amp;Jedna</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation>D&amp;wa</translation>
+        <translation>D&amp;wie</translation>
     </message>
     <message>
         <source>&amp;Three</source>
@@ -636,11 +619,11 @@
     <name>DlgKxOutlineNumber</name>
     <message>
         <source>Customize Outline Numbered List</source>
-        <translation>Dostusuj listę numerowaną konspektu</translation>
+        <translation>Dostosowywanie konspektu listy numerowanej</translation>
     </message>
     <message>
         <source>Number format </source>
-        <translation>Format liczby </translation>
+        <translation>Format numeracji </translation>
     </message>
     <message>
         <source>Le&amp;vel:</source>
@@ -648,7 +631,7 @@
     </message>
     <message>
         <source>Number f&amp;ormat:</source>
-        <translation>&amp;Format liczby:</translation>
+        <translation>&amp;Format numeracji:</translation>
     </message>
     <message>
         <source>&amp;Number style:</source>
@@ -656,10 +639,7 @@
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
-            <lengthvariant>&amp;Początek w:</lengthvariant>
-        </translation>
+        <translation>&amp;Rozpocznij od:</translation>
     </message>
     <message>
         <source>&amp;Previous level number:</source>
@@ -683,18 +663,15 @@
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translation>Do lewej</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowane</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawej</translation>
+        <translation>Do prawej</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -710,7 +687,7 @@
     </message>
     <message>
         <source>&amp;Indent at:</source>
-        <translation>&amp;Wcięcie w:</translation>
+        <translation>&amp;Wcięcie:</translation>
     </message>
     <message>
         <source>Le&amp;gal style numbering</source>
@@ -734,10 +711,7 @@
     </message>
     <message>
         <source>Nothing</source>
-        <translation variants="yes">
-            <lengthvariant>Nic</lengthvariant>
-            <lengthvariant>Nie dołączaj</lengthvariant>
-        </translation>
+        <translation>Nie dołączaj</translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
@@ -755,10 +729,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation variants="yes">
-            <lengthvariant>Ładowanie KUI</lengthvariant>
-            <lengthvariant>Wczytywanie KUI</lengthvariant>
-        </translation>
+        <translation>Ładowanie GUI</translation>
     </message>
 </context>
 <context>
@@ -786,10 +757,7 @@
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation variants="yes">
-            <lengthvariant>&amp;Kreskowany:</lengthvariant>
-            <lengthvariant>&amp;Kreskowana:</lengthvariant>
-        </translation>
+        <translation>&amp;Kreskowany:</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
@@ -827,17 +795,21 @@
     </message>
     <message>
         <source>Words only</source>
-        <translation variants="yes">
-            <lengthvariant>Tylko wyrazy</lengthvariant>
-            <lengthvariant>Tylko słowa</lengthvariant>
-        </translation>
+        <translation>Tylko wyrazy</translation>
+    </message>
+</context>
+<context>
+    <name>KWpsStylesGalleryModel</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">Styl</translation>
     </message>
 </context>
 <context>
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
-        <translation>Niektórych z wprowadzonych użytkowników nie można dodać na listę, ponieważ nie powiodła się weryfikacja ich nazw.</translation>
+        <translation>Niektórych z wprowadzonych użytkowników nie można dodać do listy, ponieważ nie powiodła się weryfikacja ich nazw.</translation>
     </message>
 </context>
 <context>
@@ -871,10 +843,7 @@
     </message>
     <message>
         <source>Writer</source>
-        <translation variants="yes">
-            <lengthvariant>Scenarzysta</lengthvariant>
-            <lengthvariant>Autor tekstów</lengthvariant>
-        </translation>
+        <translation>Autor tekstu</translation>
     </message>
     <message>
         <source>Table</source>
@@ -882,10 +851,7 @@
     </message>
     <message>
         <source>No content</source>
-        <translation variants="yes">
-            <lengthvariant>Bez zawartości</lengthvariant>
-            <lengthvariant>Bez treści</lengthvariant>
-        </translation>
+        <translation>Bez zawartości</translation>
     </message>
 </context>
 <context>
@@ -966,7 +932,7 @@
     </message>
     <message>
         <source>Cannot check spelling on original revision status</source>
-        <translation>Nie można sprawdzić stanu pisowni oryginalnej poprawki</translation>
+        <translation>Nie można sprawdzić stanu pisowni oryginalnego przeglądu</translation>
     </message>
 </context>
 <context>
@@ -977,7 +943,7 @@
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -1019,14 +985,108 @@
     </message>
     <message>
         <source>Value must be between 1 and 16838.</source>
-        <translation>Wartość musi zawierać się pomiędzy 1 a 16838.</translation>
+        <translation>Wartość musi się zawierać w przedziale między 1 i 16838.</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentControlDlg</name>
+    <message>
+        <source>Group Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounding Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start/End Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Brak</translation>
+    </message>
+    <message>
+        <source>(All Categories)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (same as display)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date (xsd:date)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and Time (xsd:dateTime)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation type="unfinished">Chiński (Tajwan)</translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished">Angielski (Stany Zjednoczone)</translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation type="unfinished">Japoński (Japonia)</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished">Wietnamski</translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation type="unfinished">Chiński (Chiny)</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentListEntriesDlg</name>
+    <message>
+        <source>Add Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display &amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display name cannot be blank.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxContentsDlg</name>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Title</source>
@@ -1049,7 +1109,7 @@
     </message>
     <message>
         <source>Input must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -1102,7 +1162,6 @@
     </message>
     <message>
         <source>Head number</source>
-        <translatorcomment>Numerowanie nagłówków</translatorcomment>
         <translation>Poziom nagłówka</translation>
     </message>
     <message>
@@ -1151,8 +1210,7 @@
     </message>
     <message>
         <source>Above/below</source>
-        <translatorcomment>Wyżej/niżej</translatorcomment>
-        <translation>Powyżej/poniżej</translation>
+        <translation>Wyżej/niżej</translation>
     </message>
     <message>
         <source>Head number (no context)</source>
@@ -1282,10 +1340,7 @@
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz słownik niestandardowy</lengthvariant>
-            <lengthvariant>Tworzenie słownika niestandardowego</lengthvariant>
-        </translation>
+        <translation>Tworzenie słownika niestandardowego</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
@@ -1297,11 +1352,11 @@
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation>Dodaj słownik niestandardowy</translation>
+        <translation>Dodawanie słownika niestandardowego</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation>Wszystkie pliki(*.*)</translation>
+        <translation>Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
@@ -1313,10 +1368,7 @@
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można usunąć ostatniego słownika!</lengthvariant>
-            <lengthvariant>Ostatni słownik nie może być usunięty!</lengthvariant>
-        </translation>
+        <translation>Nie można usunąć ostatniego słownika!</translation>
     </message>
     <message>
         <source>Removing the custom dictionary might remove the custom dictionary used by other WPS programs. Do you want to continue?</source>
@@ -1353,13 +1405,11 @@
     <name>KxDlgAddUsers</name>
     <message>
         <source>Add Users</source>
-        <translatorcomment>Dodawanie użytkowników</translatorcomment>
-        <translation>Dodaj użytkowników</translation>
+        <translation>Dodawanie użytkowników</translation>
     </message>
     <message>
         <source>Example:user1;DOMAIN\name;someone@example.com</source>
-        <translatorcomment>Przykład:użytkownik1,Nazwa domeny;osoba@przykład.com</translatorcomment>
-        <translation>Przykład:użytkownik1,DOMENA\nazwa;osoba@przykład.com</translation>
+        <translation>Przykład: użytkownik1, DOMENA\nazwa, osoba@example.com</translation>
     </message>
     <message>
         <source>Enter user names, separated by semicolons:</source>
@@ -1421,10 +1471,7 @@
     </message>
     <message>
         <source>B&amp;orders</source>
-        <translation variants="yes">
-            <lengthvariant>Ob&amp;ramowania</lengthvariant>
-            <lengthvariant>K&amp;rawędzie</lengthvariant>
-        </translation>
+        <translation>Ob&amp;ramowania</translation>
     </message>
     <message>
         <source>Setting:</source>
@@ -1470,8 +1517,8 @@
     <message>
         <source>   Click on diagram below or
 use buttons to apply borders</source>
-        <translation>   Kliknij odpowiednią krawędź na ilustracji lub
-użyj odpowiedniego przycisku</translation>
+        <translation>Kliknij odpowiednią krawędź na ilustracji 
+lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>App&amp;ly to:</source>
@@ -1511,7 +1558,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>M&amp;ore Colors...</source>
-        <translation>&amp;Więcej kolorów...</translation>
+        <translation type="obsolete">&amp;Więcej kolorów...</translation>
     </message>
     <message>
         <source>Patterns</source>
@@ -1524,11 +1571,11 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Wyczyść</translation>
+        <translation>Przezroczysty</translation>
     </message>
     <message>
         <source>Pure(100%)</source>
-        <translation>Przejrzysty(100%)</translation>
+        <translation>Pełny (100%)</translation>
     </message>
     <message>
         <source>5%</source>
@@ -1624,51 +1671,51 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Deep horizontal line</source>
-        <translation>Głęboka linia pozioma</translation>
+        <translation>Ciemny poziomy</translation>
     </message>
     <message>
         <source>Deep vertical line</source>
-        <translation>Głęboka linia pionowa</translation>
+        <translation>Ciemny pionowy</translation>
     </message>
     <message>
         <source>Deep scope down line</source>
-        <translation>Głęboki zakres w dół linii</translation>
+        <translation>Ciemny ukośny w dół</translation>
     </message>
     <message>
         <source>Deep scope up Line</source>
-        <translation>Głęboki zakres w górę linii</translation>
+        <translation>Ciemny ukośny w górę</translation>
     </message>
     <message>
         <source>Deep grid</source>
-        <translation>Głęboka siatka</translation>
+        <translation>Ciemna siatka</translation>
     </message>
     <message>
         <source>Deep shed</source>
-        <translation>Głęboki kolor</translation>
+        <translation>Ciemna kratka</translation>
     </message>
     <message>
         <source>Shallow horizontal line</source>
-        <translation>Płytka linia pozioma</translation>
+        <translation>Jasny poziomy</translation>
     </message>
     <message>
         <source>Shallow vertical line</source>
-        <translation>Płytka linia pionowa</translation>
+        <translation>Jasny pionowy</translation>
     </message>
     <message>
         <source>Shallow scope down line</source>
-        <translation>Płytki zakres w dół linii</translation>
+        <translation>Jasny ukośny w dół</translation>
     </message>
     <message>
         <source>Shallow scope up line</source>
-        <translation>Płytki zakres w górę linii</translation>
+        <translation>Jasny ukośny w górę</translation>
     </message>
     <message>
         <source>Shallow grid</source>
-        <translation>Płytka siatka</translation>
+        <translation>Jasna siatka</translation>
     </message>
     <message>
         <source>Shallow shed</source>
-        <translation>Płytki kolor</translation>
+        <translation>Jasna kratka</translation>
     </message>
 </context>
 <context>
@@ -1679,10 +1726,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Bulleted</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Punktowane</lengthvariant>
-            <lengthvariant>&amp;Punktowany</lengthvariant>
-        </translation>
+        <translation>&amp;Punktowanie</translation>
     </message>
     <message>
         <source>Cus&amp;tomize...</source>
@@ -1690,7 +1734,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Numbered</source>
-        <translation>&amp;Numerowane</translation>
+        <translation>&amp;Numerowanie</translation>
     </message>
     <message>
         <source>List numbering</source>
@@ -1757,10 +1801,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Położenie:</lengthvariant>
-            <lengthvariant>&amp;Pozycja:</lengthvariant>
-        </translation>
+        <translation>&amp;Położenie:</translation>
     </message>
     <message>
         <source>&amp;Exclude label from caption</source>
@@ -1776,10 +1817,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>N&amp;umbering...</source>
-        <translation variants="yes">
-            <lengthvariant>N&amp;umerowanie...</lengthvariant>
-            <lengthvariant>N&amp;umeracja...</lengthvariant>
-        </translation>
+        <translation>N&amp;umerowanie...</translation>
     </message>
 </context>
 <context>
@@ -1876,7 +1914,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation>Zamień w&amp;szystkie</translation>
+        <translation>Zamień w&amp;szystko</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
@@ -1884,7 +1922,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation>I&amp;gnoruj ​​wszystkie</translation>
+        <translation>I&amp;gnoruj ​​wszystko</translation>
     </message>
     <message>
         <source>&amp;Add to Dictionary</source>
@@ -1908,7 +1946,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation>Sprawdzanie pisowni</translation>
+        <translation>Sprawdź pisownię</translation>
     </message>
     <message>
         <source>&amp;Set Language</source>
@@ -1955,7 +1993,6 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>E&amp;xit:</source>
-        <translatorcomment>W&amp;yjdź:</translatorcomment>
         <translation>Za&amp;kończ:</translation>
     </message>
     <message>
@@ -2087,6 +2124,165 @@ użyj odpowiedniego przycisku</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgContentControl</name>
+    <message>
+        <source>Content Control Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Ogólne</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ag:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">&amp;Kolor:</translation>
+    </message>
+    <message>
+        <source>&amp;Use a style to format text typed into the empty control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Style:</source>
+        <translation type="unfinished">&amp;Styl:</translation>
+    </message>
+    <message>
+        <source>&amp;New Style...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove content control when contents are edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content control cannot be &amp;deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents cannot be &amp;edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow &amp;carriage returns (multiple paragraphs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Building Block Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Category:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gallery:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Box Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Change...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cha&amp;nge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop-Down &amp;List Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished">&amp;Dodaj...</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">&amp;Modyfikuj...</translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move U&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Do&amp;wn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date Picker Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displa&amp;y the date like this:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Locale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Calendar type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store &amp;XML contents in the following format when mapped:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeating Section Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow users to add and remove &amp;sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section tit&amp;le:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgContents</name>
     <message>
         <source>Table of &amp;Contents</source>
@@ -2168,10 +2364,7 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgConvertNotes</name>
     <message>
         <source>Convert Notes</source>
-        <translation variants="yes">
-            <lengthvariant>Konwertowanie przypisów</lengthvariant>
-            <lengthvariant>Konwertuj przypisy</lengthvariant>
-        </translation>
+        <translation>Konwertowanie przypisów</translation>
     </message>
     <message>
         <source>Convert all &amp;footnotes to endnotes</source>
@@ -2214,8 +2407,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Convert Table to Text</source>
-        <translatorcomment>Konwertowanie tabeli na tekst</translatorcomment>
-        <translation>Konwertuj tabelę na tekst</translation>
+        <translation>Konwertowanie tabeli na tekst</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
@@ -2226,8 +2418,7 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgConvertTexttoTable</name>
     <message>
         <source>Convert Text to Table</source>
-        <translatorcomment>Konwertowanie tekstu na tabelę</translatorcomment>
-        <translation>Konwertuj tekst na tabelę</translation>
+        <translation>Konwertowanie tekstu na tabelę</translation>
     </message>
     <message>
         <source>rd5</source>
@@ -2283,8 +2474,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Separate text at</source>
-        <translatorcomment>Separatory tekstu</translatorcomment>
-        <translation>Separator tekstu</translation>
+        <translation>Separatory tekstu</translation>
     </message>
     <message>
         <source>rd1</source>
@@ -2316,11 +2506,15 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cancel</source>
-        <translation>anuluj</translation>
+        <translation type="obsolete">anuluj</translation>
     </message>
     <message>
         <source>&amp;Paragraphs</source>
         <translation>&amp;Akapity</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2331,21 +2525,15 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Reference &amp;type:</source>
-        <translation>&amp;Typ odwołania:</translation>
+        <translation>Typ &amp;odsyłacza:</translation>
     </message>
     <message>
         <source>cbxRefType</source>
-        <translation variants="yes">
-            <lengthvariant>cbxTypOdwołania</lengthvariant>
-            <lengthvariant>cbxRefType</lengthvariant>
-        </translation>
+        <translation>cbxRefType</translation>
     </message>
     <message>
         <source>cbHyperlink</source>
-        <translation variants="yes">
-            <lengthvariant>cbHiperłącze</lengthvariant>
-            <lengthvariant>cbHyperlink</lengthvariant>
-        </translation>
+        <translation>cbHyperlink</translation>
     </message>
     <message>
         <source>Insert as &amp;hyperlink</source>
@@ -2353,21 +2541,15 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cbxRefContent</source>
-        <translation variants="yes">
-            <lengthvariant>cbxZawartośćOdwołania</lengthvariant>
-            <lengthvariant>cbxRefContent</lengthvariant>
-        </translation>
+        <translation>cbxRefContent</translation>
     </message>
     <message>
         <source>cbInclude</source>
-        <translation variants="yes">
-            <lengthvariant>cbDołącz</lengthvariant>
-            <lengthvariant>cbInclude</lengthvariant>
-        </translation>
+        <translation>cbInclude</translation>
     </message>
     <message>
         <source>Include above/below(&amp;N)</source>
-        <translation>Dołącz powyżej/poniżej(&amp;N)</translation>
+        <translation>Dołącz wyraz powyżej/poniżej (&amp;N)</translation>
     </message>
     <message>
         <source>For &amp;Which</source>
@@ -2375,10 +2557,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>lwRefItem</source>
-        <translation variants="yes">
-            <lengthvariant>lwElementOdwołania</lengthvariant>
-            <lengthvariant>lwRefItem</lengthvariant>
-        </translation>
+        <translation>lwRefItem</translation>
     </message>
     <message>
         <source>Insert &amp;reference to:</source>
@@ -2417,7 +2596,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation>Ustaw jako domyślny(&amp;C)</translation>
+        <translation>Ustaw jako domyślny (&amp;C)</translation>
     </message>
     <message>
         <source>Full Path</source>
@@ -2428,10 +2607,7 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgCustomizeBulletedList</name>
     <message>
         <source>Customize Bulleted List</source>
-        <translation variants="yes">
-            <lengthvariant>Dostosowywanie listy punktowanej</lengthvariant>
-            <lengthvariant>Dostosuj listę punktowaną</lengthvariant>
-        </translation>
+        <translation>Dostosowywanie listy punktowanej</translation>
     </message>
     <message>
         <source>B&amp;ullet character</source>
@@ -2451,14 +2627,11 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Bullet position</source>
-        <translation variants="yes">
-            <lengthvariant>Położenie punktora</lengthvariant>
-            <lengthvariant>Pozycja punktora</lengthvariant>
-        </translation>
+        <translation>Położenie punktora</translation>
     </message>
     <message>
         <source>Indent &amp;at:</source>
-        <translation>Wcięcie &amp;w:</translation>
+        <translation>W&amp;cięcie:</translation>
     </message>
     <message>
         <source>pt</source>
@@ -2490,21 +2663,18 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Indent at:</source>
-        <translation>&amp;Wcięcie w:</translation>
+        <translation>&amp;Wcięcie:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgCustomizeNumberedList</name>
     <message>
         <source>Customize Numbered List</source>
-        <translation variants="yes">
-            <lengthvariant>Dostosowywanie listy numerowanej</lengthvariant>
-            <lengthvariant>Dostusuj listę numerowaną</lengthvariant>
-        </translation>
+        <translation>Dostosowywanie listy numerowanej</translation>
     </message>
     <message>
         <source>Number f&amp;ormat</source>
-        <translation>&amp;Format liczby</translation>
+        <translation>&amp;Format numeracji</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
@@ -2512,10 +2682,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
-            <lengthvariant>&amp;Początek w:</lengthvariant>
-        </translation>
+        <translation>&amp;Rozpocznij od:</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -2527,7 +2694,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translation>Do lewej</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2535,7 +2702,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawej</translation>
+        <translation>Do prawej</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
@@ -2563,7 +2730,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Indent at:</source>
-        <translation>&amp;Wcięcie w:</translation>
+        <translation>&amp;Wcięcie:</translation>
     </message>
     <message>
         <source>&amp;Number style:</source>
@@ -2602,6 +2769,93 @@ użyj odpowiedniego przycisku</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgDocumentFields</name>
+    <message>
+        <source>DocumentField</source>
+        <translation>Pole dokumentu</translation>
+    </message>
+    <message>
+        <source>DocumentField Name</source>
+        <translation type="obsolete">Nazwa pola dokumentu</translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <translation>&amp;Wstaw</translation>
+    </message>
+    <message>
+        <source>&amp;Rename</source>
+        <translation>&amp;Zmień nazwę</translation>
+    </message>
+    <message>
+        <source>&amp;Go To</source>
+        <translation>&amp;Przejdź do</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>&amp;Marks Only</source>
+        <translation>Tylko &amp;znaczniki</translation>
+    </message>
+    <message>
+        <source>Sort by:</source>
+        <translation>Sortuj według:</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation>&amp;Nazwa</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation>&amp;Lokalizacja</translation>
+    </message>
+    <message>
+        <source>DocumentField Properties</source>
+        <translation>Właściwości pola dokumentu</translation>
+    </message>
+    <message>
+        <source>&amp;Hidden</source>
+        <translation>&amp;Ukryte</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>&amp;Drukuj</translation>
+    </message>
+    <message>
+        <source>Read &amp;Only</source>
+        <translation>Tylko do &amp;odczytu</translation>
+    </message>
+    <message>
+        <source>&amp;Apply All</source>
+        <translation>&amp;Zastosuj wszystkie</translation>
+    </message>
+    <message>
+        <source>Insertion Mode</source>
+        <translation>Tryb wstawiania</translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then counted in. </source>
+        <translation type="obsolete">Po wstawieniu na początku i na końcu, następnie zliczone w </translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation>Nazwa &amp;pola dokumentu:</translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation>Gdy wstawiono na początku i na końcu, wtedy &amp;uwzględniane. </translation>
+    </message>
+</context>
+<context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>Drawing Grid</source>
@@ -2613,7 +2867,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>ch, 2, 0.01, 150.85, 0.5</source>
-        <translation>zn, 2, 0,01, 150,85, 0.5</translation>
+        <translation>zn, 2, 0,01, 150,85, 0,5</translation>
     </message>
     <message>
         <source>Grid origin</source>
@@ -2684,10 +2938,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>Position</source>
-        <translation variants="yes">
-            <lengthvariant>Położenie</lengthvariant>
-            <lengthvariant>Pozycja</lengthvariant>
-        </translation>
+        <translation>Położenie</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -2722,10 +2973,7 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgDropDownFormField</name>
     <message>
         <source>bnUp</source>
-        <translation variants="yes">
-            <lengthvariant>bnWgórę</lengthvariant>
-            <lengthvariant>bnUp</lengthvariant>
-        </translation>
+        <translation>bnUp</translation>
     </message>
     <message>
         <source>Move</source>
@@ -2733,17 +2981,11 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>bnDown</source>
-        <translation variants="yes">
-            <lengthvariant>bnWdół</lengthvariant>
-            <lengthvariant>bnDown</lengthvariant>
-        </translation>
+        <translation>bnDown</translation>
     </message>
     <message>
         <source>lvItems</source>
-        <translation variants="yes">
-            <lengthvariant>lvElementy</lengthvariant>
-            <lengthvariant>lvItems</lengthvariant>
-        </translation>
+        <translation>lvItems</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -2771,17 +3013,11 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>cmbMarcroEntry</source>
-        <translation variants="yes">
-            <lengthvariant>cmbmakroWpis</lengthvariant>
-            <lengthvariant>cmbMarcroEntry</lengthvariant>
-        </translation>
+        <translation>cmbMarcroEntry</translation>
     </message>
     <message>
         <source>cmbmacroExit</source>
-        <translation variants="yes">
-            <lengthvariant>cmbmakroZakończ</lengthvariant>
-            <lengthvariant>cmbmacroExit</lengthvariant>
-        </translation>
+        <translation>cmbmacroExit</translation>
     </message>
     <message>
         <source>Field settings</source>
@@ -2793,10 +3029,7 @@ użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>edBookmark</source>
-        <translation variants="yes">
-            <lengthvariant>edZakładka</lengthvariant>
-            <lengthvariant>edBookmark</lengthvariant>
-        </translation>
+        <translation>edBookmark</translation>
     </message>
     <message>
         <source>Drop-down e&amp;nabled</source>
@@ -2823,7 +3056,7 @@ użyj odpowiedniego przycisku</translation>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
-        <translation>Edytuj słownik</translation>
+        <translation type="obsolete">Edytowanie słownika</translation>
     </message>
     <message>
         <source>&amp;Word</source>
@@ -2845,6 +3078,10 @@ użyj odpowiedniego przycisku</translation>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
+    <message>
+        <source>编辑字典</source>
+        <translation>Edytowanie słownika</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEmbedPrivateFonts</name>
@@ -2864,10 +3101,14 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Zapamiętaj tą operację, nie przypominaj mi ponownie</lengthvariant>
             <lengthvariant>Pamiętam tą operację, nie przypominaj mi ponownie</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation>Zapamiętaj mój wybór i nie pytaj mnie ponownie.</translation>
     </message>
 </context>
 <context>
@@ -2938,6 +3179,224 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgEnvelopeOption</name>
+    <message>
+        <source>Envelope Options</source>
+        <translation type="obsolete">Opcje kopert</translation>
+    </message>
+    <message>
+        <source>Envelope size:</source>
+        <translation type="obsolete">Rozmiar koperty:</translation>
+    </message>
+    <message>
+        <source>Delivery address</source>
+        <translation type="obsolete">Adres odbiorcy</translation>
+    </message>
+    <message>
+        <source>From top:</source>
+        <translation type="obsolete">Od góry:</translation>
+    </message>
+    <message>
+        <source>From left:</source>
+        <translation type="obsolete">Od lewej:</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">Automatycznie</translation>
+    </message>
+    <message>
+        <source>Return address</source>
+        <translation type="obsolete">Adres zwrotny</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="obsolete">Podgląd</translation>
+    </message>
+    <message>
+        <source>Printing Options</source>
+        <translation type="obsolete">Opcje drukowania</translation>
+    </message>
+    <message>
+        <source>Feed method</source>
+        <translation type="obsolete">Metoda podawania</translation>
+    </message>
+    <message>
+        <source>Face up</source>
+        <translation type="obsolete">Wierzchem do góry</translation>
+    </message>
+    <message>
+        <source>Face down</source>
+        <translation type="obsolete">Wierzchem do dołu</translation>
+    </message>
+    <message>
+        <source>Clockwise rotation</source>
+        <translation type="obsolete">Obrót zgodny z ruchem wskazówek zegara</translation>
+    </message>
+    <message>
+        <source>Feed from:</source>
+        <translation type="obsolete">Podawanie z:</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">Resetuj</translation>
+    </message>
+    <message>
+        <source>Printer:</source>
+        <translation type="obsolete">Drukarka:</translation>
+    </message>
+    <message>
+        <source>&amp;Envelope Options</source>
+        <translation type="obsolete">Opcje kopert</translation>
+    </message>
+    <message>
+        <source>Envelope &amp;size:</source>
+        <translation type="obsolete">Rozmiar koperty:</translation>
+    </message>
+    <message>
+        <source>From &amp;top:</source>
+        <translation type="obsolete">Od góry:</translation>
+    </message>
+    <message>
+        <source>From &amp;left:</source>
+        <translation type="obsolete">Od lewej:</translation>
+    </message>
+    <message>
+        <source>Fro&amp;m left:</source>
+        <translation type="obsolete">Od lewej:</translation>
+    </message>
+    <message>
+        <source>F&amp;rom top:</source>
+        <translation type="obsolete">Od góry:</translation>
+    </message>
+    <message>
+        <source>&amp;Printing Options</source>
+        <translation type="obsolete">Opcje drukowania</translation>
+    </message>
+    <message>
+        <source>Face &amp;up</source>
+        <translation type="obsolete">Wierzchem do góry</translation>
+    </message>
+    <message>
+        <source>Face &amp;down</source>
+        <translation type="obsolete">Wierzchem do dołu</translation>
+    </message>
+    <message>
+        <source>&amp;Clockwise rotation</source>
+        <translation type="obsolete">Obrót zgodny z ruchem wskazówek zegara</translation>
+    </message>
+    <message>
+        <source>&amp;Feed from:</source>
+        <translation type="obsolete">Podawanie z:</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation type="obsolete">&amp;Resetuj</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEnvelopesAndLabels</name>
+    <message>
+        <source>Envelopes</source>
+        <translation type="obsolete">Koperty</translation>
+    </message>
+    <message>
+        <source>Delivery address:</source>
+        <translation type="obsolete">Adres odbiorcy:</translation>
+    </message>
+    <message>
+        <source>Add electronic postage</source>
+        <translation type="obsolete">Dodaj elektroniczną opłatę pocztową</translation>
+    </message>
+    <message>
+        <source>Return address:</source>
+        <translation type="obsolete">Adres zwrotny:</translation>
+    </message>
+    <message>
+        <source>Omit</source>
+        <translation type="obsolete">Pomiń</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="obsolete">Podgląd</translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <translation type="obsolete">Podawanie</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="obsolete">Drukuj</translation>
+    </message>
+    <message>
+        <source>Add Document</source>
+        <translation type="obsolete">Dodaj dokument</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="obsolete">Opcje</translation>
+    </message>
+    <message>
+        <source>E-postage Properties</source>
+        <translation type="obsolete">Właściwości elektronicznej opłaty pocztowej</translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation type="obsolete">Etykiety</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Zamknij</translation>
+    </message>
+    <message>
+        <source>Envelopes and Labels</source>
+        <translation type="obsolete">Koperty i etykiety</translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing:</source>
+        <translation type="obsolete">Przed przystąpieniem do drukowania sprawdź, czy koperty zostały załadowane:</translation>
+    </message>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="obsolete">Użyj ustawień drukarki</translation>
+    </message>
+    <message>
+        <source>&amp;Envelopes</source>
+        <translation type="obsolete">Koperty</translation>
+    </message>
+    <message>
+        <source>&amp;Delivery address:</source>
+        <translation type="obsolete">Adres odbiorcy:</translation>
+    </message>
+    <message>
+        <source>&amp;Return address:</source>
+        <translation type="obsolete">Adres zwrotny:</translation>
+    </message>
+    <message>
+        <source>O&amp;mit</source>
+        <translation type="obsolete">Pomiń</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="obsolete">&amp;Drukuj</translation>
+    </message>
+    <message>
+        <source>&amp;Add Document</source>
+        <translation type="obsolete">Dodaj dokument</translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="obsolete">&amp;Opcje</translation>
+    </message>
+    <message>
+        <source>E-pos&amp;tage Properties</source>
+        <translation type="obsolete">Właściwości elektronicznej opłaty pocztowej</translation>
+    </message>
+    <message>
+        <source>&amp;Labels</source>
+        <translation type="obsolete">Etykiety</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgField</name>
     <message>
         <source>Fields</source>
@@ -2969,7 +3428,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>AND</source>
-        <translation>I</translation>
+        <translation>ORAZ</translation>
     </message>
     <message>
         <source>AVERAGE</source>
@@ -2993,7 +3452,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>INT</source>
-        <translation>ZAOKR.DO.CAŁK</translation>
+        <translation>LICZBA.CAŁK</translation>
     </message>
     <message>
         <source>MIN</source>
@@ -3049,11 +3508,11 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>LEFT</source>
-        <translation>Z LEWEJ</translation>
+        <translation>LEWY</translation>
     </message>
     <message>
         <source>RIGHT</source>
-        <translation>Z PRAWEJ</translation>
+        <translation>PRAWY</translation>
     </message>
     <message>
         <source>ABOVE</source>
@@ -3109,6 +3568,14 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
         <source>Document &amp;property:</source>
         <translation>&amp;Właściwość dokumentu:</translation>
     </message>
+    <message>
+        <source>Add the &amp;path to the file name</source>
+        <translation type="obsolete">&amp;Dodaj ścieżkę do nazwy pliku</translation>
+    </message>
+    <message>
+        <source>Add &amp;path to filename</source>
+        <translation>&amp;Dodaj ścieżkę do nazwy pliku</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFindReplace</name>
@@ -3118,7 +3585,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Fin&amp;d</source>
-        <translation>&amp;Znajdź</translation>
+        <translation>Znaj&amp;dź</translation>
     </message>
     <message>
         <source>Fi&amp;nd what:</source>
@@ -3218,11 +3685,11 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>find options</source>
-        <translation>opcje szukania</translation>
+        <translation>opcje znajdowania</translation>
     </message>
     <message>
         <source>replace options</source>
-        <translation>opcje zamiany</translation>
+        <translation type="obsolete">opcje zamiany</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -3242,10 +3709,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Sp&amp;ecial</source>
-        <translation variants="yes">
-            <lengthvariant>Sp&amp;ecjalne</lengthvariant>
-            <lengthvariant>Sp&amp;ecjalny</lengthvariant>
-        </translation>
+        <translation>Sp&amp;ecjalne</translation>
     </message>
     <message>
         <source>Match half/full for&amp;ms</source>
@@ -3257,14 +3721,11 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Ignore white-sp&amp;ace characters</source>
-        <translation variants="yes">
-            <lengthvariant>Ig&amp;noruj białe znaki</lengthvariant>
-            <lengthvariant>Ig&amp;noruj znaki odstępu</lengthvariant>
-        </translation>
+        <translation>Ig&amp;noruj białe znaki</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Japanese)</source>
-        <translation>&amp;Brzmi jak (japoński)</translation>
+        <translation>Brzmi jak (&amp;japoński)</translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
@@ -3292,10 +3753,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation variants="yes">
-            <lengthvariant>Linia</lengthvariant>
-            <lengthvariant>Wiersz</lengthvariant>
-        </translation>
+        <translation>Wiersz</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -3397,7 +3855,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Find Previous(&amp;B)</source>
-        <translation>Znajdź poprzedni(&amp;B)</translation>
+        <translation>Znajdź poprzedni (&amp;B)</translation>
+    </message>
+    <message>
+        <source>Replace options</source>
+        <translation>Opcje zamiany</translation>
     </message>
 </context>
 <context>
@@ -3408,8 +3870,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Find Style</source>
-        <translatorcomment>Znajdowanie stylu</translatorcomment>
-        <translation>Znajdź styl</translation>
+        <translation>Znajdowanie stylu</translation>
     </message>
     <message>
         <source>Description</source>
@@ -3476,7 +3937,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;All caps</source>
-        <translatorcomment>&amp;Wszystkie wielkie litery</translatorcomment>
         <translation>&amp;Wszystkie wersaliki</translation>
     </message>
     <message>
@@ -3489,10 +3949,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation variants="yes">
-            <lengthvariant>K&amp;apitaliki</lengthvariant>
-            <lengthvariant>&amp;Małe litery</lengthvariant>
-        </translation>
+        <translation>K&amp;apitaliki</translation>
     </message>
     <message>
         <source>Double strikethrou&amp;gh</source>
@@ -3500,7 +3957,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
-        <translation>&amp;Konspekt</translation>
+        <translation>&amp;Kontur</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
@@ -3508,14 +3965,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>&amp;Uwypuklenie</translation>
+        <translation>Uwy&amp;puklenie</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Ukryty</lengthvariant>
-            <lengthvariant>&amp;Ukryte</lengthvariant>
-        </translation>
+        <translation>&amp;Ukrycie</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -3523,7 +3977,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Engra&amp;ve</source>
-        <translation>&amp;Wgłębienie</translation>
+        <translation>W&amp;głębienie</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -3535,23 +3989,15 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Położenie:</lengthvariant>
-            <lengthvariant>&amp;Pozycja:</lengthvariant>
-        </translation>
+        <translation>&amp;Położenie:</translation>
     </message>
     <message>
         <source>&amp;By:</source>
-        <translation>&amp;Przez:</translation>
+        <translation>&amp;Co:</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translatorcomment>a</translatorcomment>
-        <translation variants="yes">
-            <lengthvariant>Normalny</lengthvariant>
-            <lengthvariant>Normalna</lengthvariant>
-            <lengthvariant>Normalne</lengthvariant>
-        </translation>
+        <translation>Normalne</translation>
     </message>
     <message>
         <source>Raised</source>
@@ -3563,7 +4009,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation>P&amp;rzez:</translation>
+        <translation>C&amp;o:</translation>
     </message>
     <message>
         <source>S&amp;cale:</source>
@@ -3571,7 +4017,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Expanded</source>
-        <translation>Rozwinięte</translation>
+        <translation>Rozszerzone</translation>
     </message>
     <message>
         <source>Condensed</source>
@@ -3609,6 +4055,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
         <source>Cha&amp;racter Spacing</source>
         <translation>O&amp;dstępy między znakami</translation>
     </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgFootAndEndnote</name>
@@ -3630,7 +4080,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translatorcomment>Ciągłe</translatorcomment>
         <translation>Ciągły</translation>
     </message>
     <message>
@@ -3671,7 +4120,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Convert...</source>
-        <translatorcomment>&amp;Konwertowanie...</translatorcomment>
         <translation>&amp;Konwertuj...</translation>
     </message>
     <message>
@@ -3692,17 +4140,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
-            <lengthvariant>&amp;Początek w:</lengthvariant>
-        </translation>
+        <translation>&amp;Rozpocznij od:</translation>
     </message>
     <message>
         <source>Nu&amp;mbering:</source>
-        <translation variants="yes">
-            <lengthvariant>Nu&amp;merowanie:</lengthvariant>
-            <lengthvariant>Nu&amp;meracja:</lengthvariant>
-        </translation>
+        <translation>Nu&amp;merowanie:</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -3733,21 +4175,14 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show(&amp;D):</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż(&amp;D):</lengthvariant>
-            <lengthvariant>Pokaz(&amp;D):</lengthvariant>
-        </translation>
+        <translation>Pokaż (&amp;D):</translation>
     </message>
     <message>
         <source>Styles are currently allowed(&amp;P):</source>
-        <translation variants="yes">
-            <lengthvariant>Style są obecnie dozwolone(&amp;P):</lengthvariant>
-            <lengthvariant>Zaznaczone style są obecnie dozwolone(&amp;P):</lengthvariant>
-        </translation>
+        <translation>Style są obecnie dozwolone (&amp;P):</translation>
     </message>
     <message>
         <source>R&amp;estrictions on the styles:</source>
-        <translatorcomment>&amp;Ograniczenia w stylach:</translatorcomment>
         <translation>&amp;Ograniczenia dotyczące stylów:</translation>
     </message>
     <message>
@@ -3771,7 +4206,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgGenkoSetting</name>
     <message>
         <source>Genko Setting</source>
-        <translatorcomment>Ustawienia trybu Genko</translatorcomment>
         <translation>Ustawienie Genko</translation>
     </message>
     <message>
@@ -3808,14 +4242,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation>Podkreślenie</translation>
+        <translation type="obsolete">Podkreślenie</translation>
     </message>
     <message>
         <source>Border</source>
-        <translation variants="yes">
-            <lengthvariant>Obramowanie</lengthvariant>
-            <lengthvariant>Krawędź</lengthvariant>
-        </translation>
+        <translation>Obramowanie</translation>
     </message>
     <message>
         <source>Grid &amp;color:</source>
@@ -3853,6 +4284,10 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
         <source>Allow ha&amp;nging punctuation</source>
         <translation>&amp;Zezwalaj na wysuniętą interpunkcję</translation>
     </message>
+    <message>
+        <source>Underline</source>
+        <translation>Podkreślenie</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgHelpStatusText</name>
@@ -3885,7 +4320,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>From text</source>
-        <translation>Z tekstu</translation>
+        <translation>Od tekstu</translation>
     </message>
     <message>
         <source>T&amp;op:</source>
@@ -3913,7 +4348,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Page margin</source>
-        <translation>Margines strony</translation>
+        <translation>Krawędź strony</translation>
     </message>
     <message>
         <source>Options</source>
@@ -3983,10 +4418,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Update automatically</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Aktualizuj automatycznie</lengthvariant>
-            <lengthvariant>&amp;Automatyczna aktualizacja</lengthvariant>
-        </translation>
+        <translation>&amp;Automatyczna aktualizacja</translation>
     </message>
     <message>
         <source>&amp;Default...</source>
@@ -3997,7 +4429,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgInsertMergeField</name>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Wstaw pole korespondencji seryjnej</translation>
+        <translation>Wstaw pola korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Insert:</source>
@@ -4021,8 +4453,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Match Fields</source>
-        <translatorcomment>Dopasowywanie pól</translatorcomment>
-        <translation>Dopasuj pola</translation>
+        <translation>Dopasowywanie pól</translation>
     </message>
     <message>
         <source>&amp;Match Fields...</source>
@@ -4041,7 +4472,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgInsertNumber</name>
     <message>
         <source>Number</source>
-        <translatorcomment>Numer</translatorcomment>
         <translation>Numeracja</translation>
     </message>
     <message>
@@ -4057,10 +4487,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgInsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw tabelę</lengthvariant>
-            <lengthvariant>Wstawianie tabeli</lengthvariant>
-        </translation>
+        <translation>Wstawianie tabeli</translation>
     </message>
     <message>
         <source>Table size</source>
@@ -4092,7 +4519,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Auto column width(&amp;F)</source>
-        <translation>Automatyczna szerokość kolumny(&amp;F)</translation>
+        <translation>Automatyczna szerokość kolumny (&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -4126,14 +4553,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Count &amp;by:</source>
-        <translation>Zlicz &amp;przez:</translation>
+        <translation>Zlicz &amp;co:</translation>
     </message>
     <message>
         <source>buttonGroup_mode</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskTrybu_Grupa</lengthvariant>
-            <lengthvariant>buttonGroup_mode</lengthvariant>
-        </translation>
+        <translation>buttonGroup_mode</translation>
     </message>
     <message>
         <source>Add &amp;line numbering</source>
@@ -4141,14 +4565,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>From &amp;text:</source>
-        <translation>Z &amp;tekstu:</translation>
+        <translation>Od &amp;tekstu:</translation>
     </message>
     <message>
         <source>Start &amp;at:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
-            <lengthvariant>&amp;Początek w:</lengthvariant>
-        </translation>
+        <translation>R&amp;ozpocznij od:</translation>
     </message>
     <message>
         <source>mm</source>
@@ -4156,10 +4577,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Numbering:</source>
-        <translation variants="yes">
-            <lengthvariant>Numerowanie:</lengthvariant>
-            <lengthvariant>Numeracja:</lengthvariant>
-        </translation>
+        <translation>Numerowanie:</translation>
     </message>
     <message>
         <source>Restart each &amp;page</source>
@@ -4171,7 +4589,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Continuous</source>
-        <translation>&amp;Ciągła</translation>
+        <translation>&amp;Ciągłe</translation>
     </message>
 </context>
 <context>
@@ -4190,11 +4608,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Select All</source>
-        <translation>&amp;Wybierz wszystkie</translation>
+        <translation>&amp;Zaznacz wszystko</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Wyczyść w&amp;szystkie</translation>
+        <translation>Wyczyść w&amp;szystko</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -4205,8 +4623,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMailMergeTable</name>
     <message>
         <source>Select Table</source>
-        <translatorcomment>Zaznacz tabelę</translatorcomment>
-        <translation>Wybierz tabelę</translation>
+        <translation>Zaznacz tabelę</translation>
     </message>
     <message>
         <source>dialog</source>
@@ -4225,8 +4642,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMatchFields</name>
     <message>
         <source>Match Fields</source>
-        <translatorcomment>Dopasowywanie pól</translatorcomment>
-        <translation>Dopasuj pola</translation>
+        <translation>Dopasowywanie pól</translation>
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
@@ -4262,7 +4678,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>State</source>
-        <translatorcomment>Stan</translatorcomment>
         <translation>Województwo</translation>
     </message>
     <message>
@@ -4287,7 +4702,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translatorcomment>Przydomek</translatorcomment>
         <translation>Pseudonim</translation>
     </message>
     <message>
@@ -4356,7 +4770,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Spouse nickname</source>
-        <translatorcomment>Nick współmałżonka</translatorcomment>
         <translation>Pseudonim współmałżonka</translation>
     </message>
     <message>
@@ -4420,14 +4833,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show changes</source>
-        <translation variants="yes">
-            <lengthvariant>Pokazywanie zmian</lengthvariant>
-            <lengthvariant>Pokaż zmiany</lengthvariant>
-        </translation>
+        <translation>Pokazywanie zmian</translation>
     </message>
     <message>
         <source>Show changes at:</source>
-        <translation>Pokaż zmiany na:</translation>
+        <translation>Pokaż zmiany:</translation>
     </message>
     <message>
         <source>Show changes in:</source>
@@ -4458,7 +4868,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToDiffNewDoc</name>
     <message>
         <source>Merge to Different New Document</source>
-        <translation>Scal z innym nowym dokumentem</translation>
+        <translation>Scalanie z innym nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge options</source>
@@ -4474,7 +4884,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>As new documents&apos; filename</source>
-        <translation>Jako nazwę pliku dla nowych dokumentów</translation>
+        <translation>Jako nazwa pliku nowych dokumentów</translation>
     </message>
     <message>
         <source>File location&amp;s:</source>
@@ -4513,10 +4923,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToEmail</name>
     <message>
         <source>Merge to E-mail</source>
-        <translation variants="yes">
-            <lengthvariant>Scal do poczty e-mail</lengthvariant>
-            <lengthvariant>Scalanie do poczty e-mail</lengthvariant>
-        </translation>
+        <translation>Scalanie do poczty e-mail</translation>
     </message>
     <message>
         <source>Message options</source>
@@ -4528,10 +4935,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxMessageTo</source>
-        <translation variants="yes">
-            <lengthvariant>cbxWiadomośćDo</lengthvariant>
-            <lengthvariant>cbxMessageTo</lengthvariant>
-        </translation>
+        <translation>cbxMessageTo</translation>
     </message>
     <message>
         <source>&amp;Subject line:</source>
@@ -4539,10 +4943,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edSubjectLine</source>
-        <translation variants="yes">
-            <lengthvariant>edWierszTematu</lengthvariant>
-            <lengthvariant>edSubjectLine</lengthvariant>
-        </translation>
+        <translation>edSubjectLine</translation>
     </message>
     <message>
         <source>&amp;Mail format:</source>
@@ -4550,10 +4951,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxMailFormat</source>
-        <translation variants="yes">
-            <lengthvariant>cbxFormatWiadomości</lengthvariant>
-            <lengthvariant>cbxMailFormat</lengthvariant>
-        </translation>
+        <translation>cbxMailFormat</translation>
     </message>
     <message>
         <source>Pure text</source>
@@ -4565,10 +4963,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>rbAll</source>
-        <translation variants="yes">
-            <lengthvariant>rbWszystkie</lengthvariant>
-            <lengthvariant>rbAll</lengthvariant>
-        </translation>
+        <translation>rbAll</translation>
     </message>
     <message>
         <source>&amp;All</source>
@@ -4576,10 +4971,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>rbCurrentRecord</source>
-        <translation variants="yes">
-            <lengthvariant>rbBieżącyRekord</lengthvariant>
-            <lengthvariant>rbCurrentRecord</lengthvariant>
-        </translation>
+        <translation>rbCurrentRecord</translation>
     </message>
     <message>
         <source>Curr&amp;ent record</source>
@@ -4587,10 +4979,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>rbFromto</source>
-        <translation variants="yes">
-            <lengthvariant>rbOdDo</lengthvariant>
-            <lengthvariant>rbFromto</lengthvariant>
-        </translation>
+        <translation>rbFromto</translation>
     </message>
     <message>
         <source>&amp;From:</source>
@@ -4598,10 +4987,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edFrom</source>
-        <translation variants="yes">
-            <lengthvariant>edOd</lengthvariant>
-            <lengthvariant>edFrom</lengthvariant>
-        </translation>
+        <translation>edFrom</translation>
     </message>
     <message>
         <source>&amp;To:</source>
@@ -4609,10 +4995,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edTo</source>
-        <translation variants="yes">
-            <lengthvariant>edDo</lengthvariant>
-            <lengthvariant>edTo</lengthvariant>
-        </translation>
+        <translation>edTo</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -4623,10 +5006,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgMergeToNewDocOrPrinter</name>
     <message>
         <source>Merge records</source>
-        <translation variants="yes">
-            <lengthvariant>Scal rekordy</lengthvariant>
-            <lengthvariant>Scalanie rekordów</lengthvariant>
-        </translation>
+        <translation>Scalanie rekordów</translation>
     </message>
     <message>
         <source>&amp;All</source>
@@ -4649,8 +5029,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     <name>KxDlgModifyStyle</name>
     <message>
         <source>Modify Style</source>
-        <translatorcomment>Modyfikowanie stylu</translatorcomment>
-        <translation>Modyfikuj styl</translation>
+        <translation>Modyfikowanie stylu</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -4735,10 +5114,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>groupBox</source>
-        <translation variants="yes">
-            <lengthvariant>PoleGrupy</lengthvariant>
-            <lengthvariant>groupBox</lengthvariant>
-        </translation>
+        <translation>groupBox</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -4754,10 +5130,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>edStyleName</source>
-        <translation variants="yes">
-            <lengthvariant>edNazwaStylu</lengthvariant>
-            <lengthvariant>edStyleName</lengthvariant>
-        </translation>
+        <translation>edStyleName</translation>
     </message>
     <message>
         <source>label_2</source>
@@ -4769,10 +5142,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxStyleType</source>
-        <translation variants="yes">
-            <lengthvariant>cbxTypStylu</lengthvariant>
-            <lengthvariant>cbxStyleType</lengthvariant>
-        </translation>
+        <translation>cbxStyleType</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -4792,10 +5162,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxStyleBaseOn</source>
-        <translation variants="yes">
-            <lengthvariant>cbxStylNaPodstawie</lengthvariant>
-            <lengthvariant>cbxStyleBaseOn</lengthvariant>
-        </translation>
+        <translation>cbxStyleBaseOn</translation>
     </message>
     <message>
         <source>label_4</source>
@@ -4807,17 +5174,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>cbxStyleFollow</source>
-        <translation variants="yes">
-            <lengthvariant>cbxObserwujStyl</lengthvariant>
-            <lengthvariant>cbxStyleFollow</lengthvariant>
-        </translation>
+        <translation>cbxStyleFollow</translation>
     </message>
     <message>
         <source>groupBox_2</source>
-        <translation variants="yes">
-            <lengthvariant>Polegrupy_2</lengthvariant>
-            <lengthvariant>groupBox_2</lengthvariant>
-        </translation>
+        <translation>groupBox_2</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -4825,10 +5186,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>lbFontNamen</source>
-        <translation variants="yes">
-            <lengthvariant>lbNazwaCzcionkin</lengthvariant>
-            <lengthvariant>lbFontNamen</lengthvariant>
-        </translation>
+        <translation>lbFontNamen</translation>
     </message>
     <message>
         <source>(All scripts)</source>
@@ -4844,38 +5202,23 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>lbFontName_3n</source>
-        <translation variants="yes">
-            <lengthvariant>lbNazwaCzcionki_3n</lengthvariant>
-            <lengthvariant>lbFontName_3n</lengthvariant>
-        </translation>
+        <translation>lbFontName_3n</translation>
     </message>
     <message>
         <source>lbLineSpacen</source>
-        <translation variants="yes">
-            <lengthvariant>lbOdstępyWierszyn</lengthvariant>
-            <lengthvariant>lbLineSpacen</lengthvariant>
-        </translation>
+        <translation>lbLineSpacen</translation>
     </message>
     <message>
         <source>lbMoven</source>
-        <translation variants="yes">
-            <lengthvariant>lbPrzenieśn</lengthvariant>
-            <lengthvariant>lbMoven</lengthvariant>
-        </translation>
+        <translation>lbMoven</translation>
     </message>
     <message>
         <source>scPreview</source>
-        <translation variants="yes">
-            <lengthvariant>scPodgląd</lengthvariant>
-            <lengthvariant>scPreview</lengthvariant>
-        </translation>
+        <translation>scPreview</translation>
     </message>
     <message>
         <source>cbxAddToTemplaten</source>
-        <translation variants="yes">
-            <lengthvariant>cbxDodajDoSzablonu</lengthvariant>
-            <lengthvariant>cbxAddToTemplaten</lengthvariant>
-        </translation>
+        <translation>cbxAddToTemplaten</translation>
     </message>
     <message>
         <source>&amp;Add to template</source>
@@ -4883,10 +5226,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>pmbFormatn</source>
-        <translation variants="yes">
-            <lengthvariant>pmbFormatn</lengthvariant>
-            <lengthvariant>pmbFormatn</lengthvariant>
-        </translation>
+        <translation>pmbFormatn</translation>
     </message>
     <message>
         <source>F&amp;ormat</source>
@@ -4894,10 +5234,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>buttonBoxn</source>
-        <translation variants="yes">
-            <lengthvariant>przyciskPolen</lengthvariant>
-            <lengthvariant>buttonBoxn</lengthvariant>
-        </translation>
+        <translation>buttonBoxn</translation>
     </message>
 </context>
 <context>
@@ -4912,17 +5249,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż</lengthvariant>
-            <lengthvariant>Pokaz</lengthvariant>
-        </translation>
+        <translation>Pokaż</translation>
     </message>
     <message>
         <source>Sta&amp;rtup task window</source>
-        <translation variants="yes">
-            <lengthvariant>U&amp;ruchomienie okna zadań</lengthvariant>
-            <lengthvariant>Autosta&amp;rt okna zadań</lengthvariant>
-        </translation>
+        <translation>Autosta&amp;rt okna zadań</translation>
     </message>
     <message>
         <source>Scree&amp;nTips</source>
@@ -4954,8 +5285,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translatorcomment>Ma&amp;pa dokumentu:</translatorcomment>
-        <translation>&amp;Plan dokumentu:</translation>
+        <translation>Ma&amp;pa dokumentu:</translation>
     </message>
     <message>
         <source>Stat&amp;us bar</source>
@@ -4963,11 +5293,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Z prawej</translation>
+        <translation>W prawo</translation>
     </message>
     <message>
         <source>Invisible</source>
@@ -4995,7 +5325,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translatorcomment>W&amp;szystko</translatorcomment>
         <translation>W&amp;szystkie</translation>
     </message>
     <message>
@@ -5020,10 +5349,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Document switch mode</source>
-        <translation variants="yes">
-            <lengthvariant>Przełącz tryb dokumentu</lengthvariant>
-            <lengthvariant>Przełącznik trybu dokumentu</lengthvariant>
-        </translation>
+        <translation>Przełącz tryb dokumentu</translation>
     </message>
     <message>
         <source>Taskb&amp;ar</source>
@@ -5067,10 +5393,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>A&amp;uto circle number</source>
-        <translation variants="yes">
-            <lengthvariant>Numer a&amp;utomatycznie zamknięty</lengthvariant>
-            <lengthvariant>Numer a&amp;utomatyczny zamknięty</lengthvariant>
-        </translation>
+        <translation>Numer a&amp;utomatycznie zamknięty</translation>
     </message>
     <message>
         <source>AutoCorrect</source>
@@ -5094,7 +5417,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Matching the current format</source>
-        <translation>Dopasowanie bieżącego formatu</translation>
+        <translation>Dopasowanie do bieżącego formatu</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -5106,11 +5429,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
-        <translation>Wykryj &amp;osobę</translation>
+        <translation type="obsolete">Wykryj &amp;osobę</translation>
     </message>
     <message>
         <source>Discern &amp;location</source>
-        <translation>Wykryj &amp;lokalizację</translation>
+        <translation type="obsolete">Wykryj &amp;lokalizację</translation>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
@@ -5118,10 +5441,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Ostatnio używane pliki:</lengthvariant>
-            <lengthvariant>Lista &amp;ostatnio używanych plików:</lengthvariant>
-        </translation>
+        <translation>&amp;Ostatnio używane pliki:</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
@@ -5168,10 +5488,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Save backup f&amp;ile every:</source>
-        <translation variants="yes">
-            <lengthvariant>Zapisz pl&amp;ik kopii zapasowej co:</lengthvariant>
-            <lengthvariant>Zapisz pl&amp;ik kopii zapasowej każdego:</lengthvariant>
-        </translation>
+        <translation>Zapisz pl&amp;ik kopii zapasowej co:</translation>
     </message>
     <message>
         <source>ch</source>
@@ -5191,7 +5508,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
-        <translation>Zapisz &amp;pliki jako domyślne:</translation>
+        <translation>Zapisz &amp;pliki domyślnie jako:</translation>
     </message>
     <message>
         <source>Web page</source>
@@ -5203,17 +5520,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Start With</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij od</lengthvariant>
-            <lengthvariant>Początek od</lengthvariant>
-        </translation>
+        <translation>Rozpocznij od</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij od:</lengthvariant>
-            <lengthvariant>Początek od:</lengthvariant>
-        </translation>
+        <translation>Rozpocznij od:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
@@ -5261,7 +5572,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Print space of hidden text</source>
-        <translatorcomment>Drukuj spację tekstu ukrytego; Drukuj odstęp tekstu ukrytego</translatorcomment>
         <translation>Drukuj obszar tekstu ukrytego</translation>
     </message>
     <message>
@@ -5278,10 +5588,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Track Changes</source>
-        <translation variants="yes">
-            <lengthvariant>Śledź zmiany</lengthvariant>
-            <lengthvariant>Śledzenie zmian</lengthvariant>
-        </translation>
+        <translation>Śledzenie zmian</translation>
     </message>
     <message>
         <source>Markup</source>
@@ -5329,7 +5636,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Hidden</source>
-        <translatorcomment>Ukryte</translatorcomment>
         <translation>Ukryty</translation>
     </message>
     <message>
@@ -5370,10 +5676,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>N&amp;umbering color:</source>
-        <translation variants="yes">
-            <lengthvariant>Kolor n&amp;umerowania:</lengthvariant>
-            <lengthvariant>Kolor n&amp;umeracji:</lengthvariant>
-        </translation>
+        <translation>Kolor n&amp;umerowania:</translation>
     </message>
     <message>
         <source>Balloons</source>
@@ -5437,7 +5740,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Preserve</source>
-        <translatorcomment>Zachowywanie</translatorcomment>
         <translation>Zachowaj</translation>
     </message>
     <message>
@@ -5474,14 +5776,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Standard</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Standardowy</lengthvariant>
-            <lengthvariant>&amp;Standardowe</lengthvariant>
-        </translation>
+        <translation>&amp;Standardowy</translation>
     </message>
     <message>
         <source>Custo&amp;m</source>
-        <translation>&amp;Niestandardowe</translation>
+        <translation>&amp;Niestandardowy</translation>
     </message>
     <message>
         <source>C&amp;annot start line:</source>
@@ -5561,11 +5860,11 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Macro security</source>
-        <translation>Zabezpieczenia makr</translation>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do pliku PDF</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -5573,10 +5872,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Informacje podsumowujące</lengthvariant>
-            <lengthvariant>Podsumowan&amp;ie</lengthvariant>
-        </translation>
+        <translation>Podsumowan&amp;ie</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
@@ -5612,31 +5908,19 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na mo&amp;dyfikowanie</lengthvariant>
-            <lengthvariant>Dozwolone mo&amp;dyfikowanie</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na mo&amp;dyfikowanie</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na kopiowani&amp;e</lengthvariant>
-            <lengthvariant>Dozwolone kopiowani&amp;e</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na kopiowani&amp;e</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation variants="yes">
-            <lengthvariant>Drukowanie niedozwolone</lengthvariant>
-            <lengthvariant>Drukowanie nie jest dozwolone</lengthvariant>
-        </translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na dodawanie ko&amp;mentarzy</lengthvariant>
-            <lengthvariant>Dozwolone dodawanie ko&amp;mentarzy</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na dodawanie ko&amp;mentarzy</translation>
     </message>
     <message>
         <source>Check s&amp;pelling as you type</source>
@@ -5736,7 +6020,6 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Whitespace characters</source>
-        <translatorcomment>Znaki odstępu</translatorcomment>
         <translation>Białe &amp;znaki</translation>
     </message>
     <message>
@@ -5745,10 +6028,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Autofit the tab width</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Autodopasowanie szerokości karty</lengthvariant>
-            <lengthvariant>&amp;Automatycznie dopasuj szerokość zakładki</lengthvariant>
-        </translation>
+        <translation>&amp;Autodopasowanie szerokości karty</translation>
     </message>
     <message>
         <source>, 5, 5.93628e+175, 1.26297e-306, 2.64983e+180</source>
@@ -5760,10 +6040,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Tab display position</source>
-        <translation variants="yes">
-            <lengthvariant>Pozycja wyświetlania karty</lengthvariant>
-            <lengthvariant>Położenie wyświetlania karty</lengthvariant>
-        </translation>
+        <translation>Pozycja wyświetlania karty</translation>
     </message>
     <message>
         <source>Display the &amp;tab bar at the top of document</source>
@@ -5811,7 +6088,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>&amp;Hyperlink Internet or network path</source>
-        <translation>&amp;Hiperłącze internetowe lub ścieżki sieciowej</translation>
+        <translation>&amp;Hiperłącze internetowe lub ścieżka sieciowa</translation>
     </message>
     <message>
         <source>Correct accidental usage of Caps &amp;Lock key</source>
@@ -5823,7 +6100,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Auto-adjust the space &amp;format at the end of lines which are aligned right</source>
-        <translation>Auto dostosowanie przestrzeni &amp;formatu na końcu linii, które są wyrównane do prawej strony</translation>
+        <translation>Dopasowanie automatyczne &amp;formatu spacji na końcu wierszy, które są wyrównane do prawej strony</translation>
     </message>
     <message>
         <source>Auto convert straight &amp;quote to smart quote</source>
@@ -5831,7 +6108,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Auto d&amp;elete paragraph indent when align center</source>
-        <translation>Automatyczne &amp;usuwanie wcięcia przy wyrównaniu do środka</translation>
+        <translation>Automatyczne &amp;usuwanie wcięcia przy wyrównaniu do środka w poziomie</translation>
     </message>
     <message>
         <source>Formatted text</source>
@@ -5843,10 +6120,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw/Wklej obrazy następująco (&amp;Z):</lengthvariant>
-            <lengthvariant>Wstaw/Wklej obrazy jako (&amp;Z):</lengthvariant>
-        </translation>
+        <translation>Wstaw/Wklej obrazy następująco (&amp;Z):</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -5866,10 +6140,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Embed &amp;TrueType</source>
-        <translation variants="yes">
-            <lengthvariant>Osadź czcionki &amp;TrueType</lengthvariant>
-            <lengthvariant>Osadzanie czcionek &amp;TrueType</lengthvariant>
-        </translation>
+        <translation>Osadzanie czcionek &amp;TrueType</translation>
     </message>
     <message>
         <source>&amp;Just embed characters used in the document (best for reducing file size)</source>
@@ -5911,7 +6182,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
-        <translation>Dopasuj poziom zabezpieczeń dotyczących otwierania plików, które mogą zawierać wirusy makr, i określ nazwy zaufanych deweloperów makr.</translation>
+        <translation>Dopasuj poziom zabezpieczeń dotyczących otwierania plików, które mogą zawierać wirusy makr oraz określ nazwy zaufanych deweloperów makr.</translation>
     </message>
     <message>
         <source>Macros &amp;Security...</source>
@@ -5943,10 +6214,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Tab style</source>
-        <translation variants="yes">
-            <lengthvariant>Styl karty</lengthvariant>
-            <lengthvariant>Styl tabulatora</lengthvariant>
-        </translation>
+        <translation>Styl karty</translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -5954,18 +6222,15 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
-        <translation variants="yes">
-            <lengthvariant>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</lengthvariant>
-            <lengthvariant>Kliknij dwukrotnie w przestrzeni, aby utworzyć &amp;nowy dokument</lengthvariant>
-        </translation>
+        <translation>Kliknij dwukrotnie w obszarze, aby utworzyć &amp;nowy dokument</translation>
     </message>
     <message>
         <source>Press Ctrl+Tab to &amp;switch tabs</source>
-        <translation>Naciśnij klawisze Ctrl+Tab, aby &amp;przełączyć karty</translation>
+        <translation>Naciśnij Ctrl+Tab, aby &amp;przełączyć karty</translation>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>Prywatność</translation>
+        <translation type="obsolete">Prywatność</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -5973,10 +6238,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
-        <translation variants="yes">
-            <lengthvariant>Pokaż &amp;okna na pasku zadań</lengthvariant>
-            <lengthvariant>Pokaż &amp;okna w pasku zadań</lengthvariant>
-        </translation>
+        <translation>Pokaż &amp;okna na pasku zadań</translation>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
@@ -5992,11 +6254,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz &amp;kopię zapasową plików przy pierwszym zapisie</lengthvariant>
-            <lengthvariant>Utwórz &amp;kopię zapasową plików podczas pierwszego zapisu</lengthvariant>
-            <lengthvariant>Tworzenie &amp;kopii zapasowej plików podczas pierwszego zapisu</lengthvariant>
-        </translation>
+        <translation>Utwórz &amp;kopię zapasową plików przy pierwszym zapisie</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -6008,10 +6266,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
-        <translation variants="yes">
-            <lengthvariant>Przypomnienie dla osadzania czcionek usługi &amp;Chmura w pliku</lengthvariant>
-            <lengthvariant>Przypomnienie dla osadzania czcionek &amp;Chmury w pliku</lengthvariant>
-        </translation>
+        <translation>Przypomnienie dla osadzania czcionek &amp;chmury w pliku</translation>
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
@@ -6035,17 +6290,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Password protect</source>
-        <translation variants="yes">
-            <lengthvariant>Chroń hasłem</lengthvariant>
-            <lengthvariant>Hasło ochrony</lengthvariant>
-        </translation>
+        <translation>Chroń hasłem</translation>
     </message>
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
-        <translation variants="yes">
-            <lengthvariant>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</lengthvariant>
-            <lengthvariant>Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.</lengthvariant>
-        </translation>
+        <translation>Przycisk Zaawansowane pozwala wybrać spośród różnych typów szyfrowania.</translation>
     </message>
     <message>
         <source>File encryption options for this document:</source>
@@ -6054,6 +6303,86 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>File sharing options for this document:</source>
         <translation>Opcje udostępniania plików dla tego dokumentu:</translation>
+    </message>
+    <message>
+        <source>D&amp;ocument fields</source>
+        <translation>Pola d&amp;okumentu</translation>
+    </message>
+    <message>
+        <source>Compatibility options</source>
+        <translation>Opcje zgodności</translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation>&amp;Opcje zgodności dla:</translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation>&amp;Rozdziel podział strony i znacznik akapitu</translation>
+    </message>
+    <message>
+        <source>&amp;Font Preview Label</source>
+        <translation type="obsolete">Etykieta podglądu &amp;czcionki</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>Pokaż minipasek narzędzi przy kliknięciu &amp;prawym przyciskiem myszy</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>Pokaż minipasek narzędzi przy zaznaczaniu (&amp;M)</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>Subskrybuj Mini-stronę WPS</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>Pokaż c&amp;odziennie</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>Pokaż po jednym tygodniu (&amp;T)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>Nigdy nie pokazuj &amp;ponownie</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Zbyt dużo reklam? Sprawdź nowe zmiany&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Discern &amp;person(only effective in Chinese)</source>
+        <translation>Rozpoznaj &amp;osobę (działa tylko w języku chińskim)</translation>
+    </message>
+    <message>
+        <source>Discern &amp;location(only effective in Chinese)</source>
+        <translation>Rozpoznaj &amp;lokalizację (działa tylko w języku chińskim)</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>Opinia</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">Dołącz do programu poprawy jakości obsługi klienta i Pomóż nam udoskonalić WPS Office.</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">Język</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">Automatycznie pobierz i aktualizuj pakiety językowe</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="obsolete">Wybieranie języków wyświetlania i Pomocy</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="obsolete">Wybierz...</translation>
     </message>
 </context>
 <context>
@@ -6064,10 +6393,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Położenie:</lengthvariant>
-            <lengthvariant>&amp;Pozycja:</lengthvariant>
-        </translation>
+        <translation>&amp;Położenie:</translation>
     </message>
     <message>
         <source>Top of page(Header)</source>
@@ -6087,10 +6413,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Middle</source>
-        <translation variants="yes">
-            <lengthvariant>Do środka</lengthvariant>
-            <lengthvariant>Środek</lengthvariant>
-        </translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>Right</source>
@@ -6130,10 +6453,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Start &amp;at:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Rozpocznij w:</lengthvariant>
-            <lengthvariant>&amp;Początek w:</lengthvariant>
-        </translation>
+        <translation>R&amp;ozpocznij od:</translation>
     </message>
     <message>
         <source>Appl&amp;y to:</source>
@@ -6176,10 +6496,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>G&amp;utter position:</source>
-        <translation variants="yes">
-            <lengthvariant>Pozycja marginesu na &amp;oprawę:</lengthvariant>
-            <lengthvariant>Położenie marginesu na &amp;oprawę:</lengthvariant>
-        </translation>
+        <translation>Pozycja marginesu na &amp;oprawę:</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6211,7 +6528,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation>Normalnie</translation>
     </message>
     <message>
         <source>Book fold</source>
@@ -6387,10 +6704,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Borders....</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Obramowania....</lengthvariant>
-            <lengthvariant>&amp;Krawędzie....</lengthvariant>
-        </translation>
+        <translation>&amp;Obramowania....</translation>
     </message>
     <message>
         <source>Document Grid</source>
@@ -6446,10 +6760,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Lines</source>
-        <translation variants="yes">
-            <lengthvariant>Wiersze</lengthvariant>
-            <lengthvariant>Linie</lengthvariant>
-        </translation>
+        <translation>Wiersze</translation>
     </message>
     <message>
         <source>Pe&amp;r page:</source>
@@ -6525,8 +6836,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Multiple pages:</source>
-        <translatorcomment>&amp;Wiele stron:</translatorcomment>
-        <translation>&amp;Kilka stron:</translation>
+        <translation>&amp;Wiele stron:</translation>
     </message>
     <message>
         <source>Mirror margins</source>
@@ -6565,10 +6875,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -6604,14 +6911,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Special:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Specjalne:</lengthvariant>
-            <lengthvariant>&amp;Specjalny:</lengthvariant>
-        </translation>
+        <translation>&amp;Specjalne:</translation>
     </message>
     <message>
         <source>B&amp;y:</source>
-        <translation>P&amp;rzez:</translation>
+        <translation>C&amp;o:</translation>
     </message>
     <message>
         <source>After te&amp;xt:</source>
@@ -6667,10 +6971,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;At:</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;W:</lengthvariant>
-            <lengthvariant>&amp;Na:</lengthvariant>
-        </translation>
+        <translation>&amp;Co:</translation>
     </message>
     <message>
         <source>Aft&amp;er:</source>
@@ -6802,7 +7103,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Automatically adjust spac&amp;e between Asian and Latin text</source>
-        <translation>Automatycznie dopasuj &amp;odstęp między tekstem azjatyckim a łacińskim</translation>
+        <translation>Automatycznie dopasuj &amp;odstęp między azjatyckim i łacińskim tekstem</translation>
     </message>
     <message>
         <source>Automatically adjust &amp;space between Asian text and numbers</source>
@@ -6869,10 +7170,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6920,10 +7218,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Tone</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Tonowo</lengthvariant>
-            <lengthvariant>&amp;Ton</lengthvariant>
-        </translation>
+        <translation>&amp;Tonowo</translation>
     </message>
     <message>
         <source>Change All...</source>
@@ -7064,6 +7359,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
         <source>32 Pages</source>
         <translation>32 strony</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>Jak rozwiązać problemy z drukarką?</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProtectDocument</name>
@@ -7081,10 +7380,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Protection password</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło ochronne</lengthvariant>
-            <lengthvariant>Hasło ochronny</lengthvariant>
-        </translation>
+        <translation>Hasło ochronny</translation>
     </message>
     <message>
         <source>The document is not encrypted. Malicious users can edit the file and remove the password.</source>
@@ -7114,10 +7410,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgSpiltCells</name>
     <message>
         <source>Split Cells</source>
-        <translation variants="yes">
-            <lengthvariant>Podziel komórki</lengthvariant>
-            <lengthvariant>Dzielenie komórek</lengthvariant>
-        </translation>
+        <translation>Dzielenie komórek</translation>
     </message>
     <message>
         <source>Number of &amp;columns:</source>
@@ -7373,10 +7666,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Around</source>
-        <translation variants="yes">
-            <lengthvariant>Wo&amp;koło</lengthvariant>
-            <lengthvariant>Doo&amp;koła</lengthvariant>
-        </translation>
+        <translation>Wo&amp;koło</translation>
     </message>
     <message>
         <source>&amp;Positioning...</source>
@@ -7488,10 +7778,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Tab stop position:</source>
-        <translation variants="yes">
-            <lengthvariant>Pozycja &amp;tabulatora:</lengthvariant>
-            <lengthvariant>Położenie &amp;tabulatora:</lengthvariant>
-        </translation>
+        <translation>Pozycja &amp;tabulatora:</translation>
     </message>
     <message>
         <source>ch, pt, 10.5, 0</source>
@@ -7515,7 +7802,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
-        <translation>zn, 2, -150,86, 150,86, 0.5</translation>
+        <translation>zn, 2, -150,86, 150,86, 0,5</translation>
     </message>
     <message>
         <source>Tab stops to be cleared:</source>
@@ -7543,10 +7830,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Leader</source>
-        <translation variants="yes">
-            <lengthvariant>Linia odniesienia</lengthvariant>
-            <lengthvariant>Znak wiodący</lengthvariant>
-        </translation>
+        <translation>Znak wiodący</translation>
     </message>
     <message>
         <source>&amp;1 None</source>
@@ -7578,7 +7862,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Wyczyść w&amp;szystkie</translation>
+        <translation>Wyczyść w&amp;szystko</translation>
     </message>
 </context>
 <context>
@@ -7598,6 +7882,17 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>Appl&amp;y to:</source>
         <translation>Z&amp;astosuj do:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTextEffects</name>
+    <message>
+        <source>Format Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -7636,15 +7931,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Maximum length:</source>
-        <translatorcomment>Długość &amp;maksymalna:</translatorcomment>
         <translation>&amp;Maksymalna długość:</translation>
     </message>
     <message>
         <source>&amp;edValue</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;edWartość</lengthvariant>
-            <lengthvariant>&amp;edValue</lengthvariant>
-        </translation>
+        <translation>&amp;edValue</translation>
     </message>
     <message>
         <source>Field settings</source>
@@ -7694,10 +7985,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Unprotect Document</source>
-        <translation variants="yes">
-            <lengthvariant>Niechronienie dokumentu</lengthvariant>
-            <lengthvariant>Nie chroń dokumentu</lengthvariant>
-        </translation>
+        <translation>Niechronienie dokumentu</translation>
     </message>
 </context>
 <context>
@@ -7712,12 +8000,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Update Table of Contents</source>
-        <translatorcomment>Aktualizowanie spisu treści</translatorcomment>
-        <translation>Aktualizuj spis treści</translation>
+        <translation>Aktualizowanie spisu treści</translation>
     </message>
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>WPS Writer zamierza zaktualizować spis treści. Wybierz jedną z poniższych opcji:</translation>
+        <translation>Program WPS Writer zamierza zaktualizować spis treści. Wybierz jedną z poniższych opcji:</translation>
     </message>
 </context>
 <context>
@@ -7732,31 +8019,44 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>View &amp;footnote area</source>
-        <translatorcomment>Pokazać obszar przypisów &amp;dolnych</translatorcomment>
-        <translation>Wyświetlić obszar przypisów &amp;dolnych</translation>
+        <translation>Pokaż obszar &amp;przypisów dolnych</translation>
     </message>
     <message>
         <source>View &amp;endnote area</source>
-        <translatorcomment>Pokazać obszar przypisów &amp;końcowych</translatorcomment>
-        <translation>Wyświetlić obszar przypisów &amp;końcowych</translation>
+        <translation>Pokaż obszar przypisów &amp;końcowych</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsConvertPrompt</name>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to newest file format.
+
+While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again about converting documents.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
-        <translation variants="yes">
-            <lengthvariant>Ograniczniki rekordu Nazwa pola</lengthvariant>
-            <lengthvariant>Ograniczniki rekordu nagłówka</lengthvariant>
-        </translation>
+        <translation type="obsolete">Ogranicznik rekordu nazwy pola</translation>
     </message>
     <message>
         <source>Data fields must use characters (called &quot;delimiter&quot;) to separated from each other; Similarly, data records must be separated by a record delimiter. Please use the following list to select the appropriate delimiter.</source>
-        <translation>Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
+        <translation type="obsolete">Pola danych muszą użyć znaków (o nazwie &quot;ogranicznik&quot;), aby oddzielić każde od siebie; Podobnie rekordy danych muszą być oddzielone znakiem ogranicznika rekordu. Proszę użyj poniższej listy, aby wybrać odpowiedni ogranicznik.</translation>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation>Ogranicznik pola:</translation>
+        <translation type="obsolete">Ogranicznik pola:</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -7888,7 +8188,42 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Record delimiter:</source>
-        <translation>Ogranicznik rekordu:</translation>
+        <translation type="obsolete">Ogranicznik rekordu:</translation>
+    </message>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation>Ograniczniki rekordu i nagłówka</translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation>Pola danych muszą być oddzielone od siebie ogranicznikiem pola. Analogicznie, rekordy danych muszą być rozdzielone ogranicznikiem rekordu. Z poniższej listy wybierz odpowiedni ogranicznik.</translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
+        <translation>Ogranicznik &amp;pola:</translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation>Ogranicznik &amp;rekordu:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you&apos;ll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7926,8 +8261,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgWpsRecordMacro</name>
     <message>
         <source>Record Macro</source>
-        <translatorcomment>Rejestrowanie makra</translatorcomment>
-        <translation>Zarejestruj makro</translation>
+        <translation>Rejestrowanie makra</translation>
     </message>
     <message>
         <source>&amp;Macro name:</source>
@@ -7950,10 +8284,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Zoom to</source>
-        <translation variants="yes">
-            <lengthvariant>Powiększenie do</lengthvariant>
-            <lengthvariant>Powiększ do</lengthvariant>
-        </translation>
+        <translation>Powiększenie do</translation>
     </message>
     <message>
         <source>&amp;100%</source>
@@ -7993,10 +8324,33 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
 </context>
 <context>
+    <name>KxDocumentFieldsDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>The document field with this name has already existed. Do you want to cover it?</source>
+        <translation>Pole dokumentu o tej nazwie już istnieje. Czy chcesz je przykryć?</translation>
+    </message>
+    <message>
+        <source>The name of the document field is illegal.</source>
+        <translation>Nazwa pola dokumentu jest niedozwolona.</translation>
+    </message>
+    <message>
+        <source>The name of the document field has already existed, please rename it!</source>
+        <translation>Nazwa pola dokumentu już istnieje, proszę zmień nazwę pola!</translation>
+    </message>
+</context>
+<context>
     <name>KxDropCapDlg</name>
     <message>
         <source>Number must be between 1 and 10.</source>
-        <translation>Liczba musi zawierać się pomiędzy 1 a 10.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>pt</source>
@@ -8020,7 +8374,23 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8046,39 +8416,56 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translatorcomment>Wyraz zawiera niedozwolone znaki. Nie możemy sobie z tym poradzić.</translatorcomment>
-        <translation>Wyraz zawiera niedostępne znaki. Nie możemy obsłużyć go.</translation>
+        <translation>Słowo zawiera niedozwolone znaki. Nie można go przetworzyć.</translation>
     </message>
 </context>
 <context>
     <name>KxEncloseCharactersDlg</name>
     <message>
         <source>circleChar</source>
-        <translation variants="yes">
-            <lengthvariant>okrągłyZnak</lengthvariant>
-            <lengthvariant>circleChar</lengthvariant>
-        </translation>
+        <translation>okrągłyZnak</translation>
     </message>
     <message>
         <source>squareChar</source>
-        <translation variants="yes">
-            <lengthvariant>kwadratowyZnak</lengthvariant>
-            <lengthvariant>squareChar</lengthvariant>
-        </translation>
+        <translation>kwadratowyZnak</translation>
     </message>
     <message>
         <source>triangleChar</source>
-        <translation variants="yes">
-            <lengthvariant>trójkątnyZnak</lengthvariant>
-            <lengthvariant>triangleChar</lengthvariant>
-        </translation>
+        <translation>trójkątnyZnak</translation>
     </message>
     <message>
         <source>diamondChar</source>
-        <translation variants="yes">
-            <lengthvariant>rombZnak</lengthvariant>
-            <lengthvariant>diamondChar</lengthvariant>
-        </translation>
+        <translation>rombZnak</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnvelopeOptionDlg</name>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="obsolete">Użyj ustawień drukarki</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Anuluj</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">Automatycznie</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnvelopesAndLabelsDlg</name>
+    <message>
+        <source>Change Document</source>
+        <translation type="obsolete">Zmień dokument</translation>
+    </message>
+    <message>
+        <source>Ch&amp;ange Document</source>
+        <translation type="obsolete">Zmień dokument</translation>
     </message>
 </context>
 <context>
@@ -8094,6 +8481,96 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>&amp;Remove All Editing Permissions For This User</source>
         <translation>&amp;Usuń wszystkie uprawnienia tego użytkownika do edycji</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation>Proszę wpisać hasło ustawiania uprawnienia!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation>Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation>Określ nazwę pliku.</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation>Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation>Określony katalog nie istnieje.</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation>Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation>Zapisz plik OFD jako</translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation>Plik OFD (*.ofd)|*.ofd|Wszystkie pliki (*.*)|*.*</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation>Określony plik już istnieje. Czy na pewno chcesz zastąpić istniejący plik?</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation>To nie jest prawidłowy zakres stron.</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation>Wystąpił błąd podczas otwierania pliku OFD!</translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation>Konwerter OFD napotkał problem alokacji pamięci. Należy zmniejszyć rozmiar dokumentu lub rozmiar obrazu.</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation>Program WPS Writer napotkał błąd podczas próby eksportowania do formatu OFD.</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation>Eksportowanie podsumowania...</translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation>Eksportowanie strony %1...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation>Eksportowanie etykiet...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation>Eksportowanie pliku OFD jest zakończane...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation>Eksportowanie pliku OFD jest zakończone.</translation>
     </message>
 </context>
 <context>
@@ -8128,10 +8605,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
@@ -8143,7 +8617,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Save PDF File As</source>
-        <translation>Zapisz plik Adobe PDF jako</translation>
+        <translation>Zapisz plik PDF jako</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation>To nie jest prawidłowy zakres stron.</translation>
     </message>
 </context>
 <context>
@@ -8162,10 +8640,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation variants="yes">
-            <lengthvariant>Informacje podsumowujące eksportowanie...</lengthvariant>
-            <lengthvariant>Podsumowanie eksportowania...</lengthvariant>
-        </translation>
+        <translation>Eksportowanie podsumowania...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
@@ -8185,7 +8660,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF.</source>
-        <translation>WPS Writer napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas próby eksportowania do formatu PDF.</translation>
     </message>
     <message>
         <source>Exporting page %1...</source>
@@ -8196,7 +8671,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxFieldDlg</name>
     <message>
         <source>Formula</source>
-        <translation>Formuła</translation>
+        <translation>Formula</translation>
     </message>
     <message>
         <source>Edit and calculate the formula, and displays the result in preview.</source>
@@ -8204,17 +8679,14 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HIPERŁĄCZE &quot;C:\\KingSoft.wps&quot;</lengthvariant>
             <lengthvariant>Przypuszczam, że KingSoft.wps jest na dysk C. Kod pola:HYPERLINK &quot;C:\\KingSoft.wps&quot;</lengthvariant>
         </translation>
     </message>
     <message>
         <source>Hyperlink</source>
-        <translation variants="yes">
-            <lengthvariant>Hiperłącze</lengthvariant>
-            <lengthvariant>Hyperlink</lengthvariant>
-        </translation>
+        <translation>Hyperlink</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -8222,21 +8694,15 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the C drive.</source>
-        <translation>Otwórz i aktywuj plik KingSoft.wps na dysku C.</translation>
+        <translation type="obsolete">Otwórz i aktywuj plik KingSoft.wps na dysku C.</translation>
     </message>
     <message>
         <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola:STRONA \* CHINESENUM2</lengthvariant>
-            <lengthvariant>Przypuszczam, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola:PAGE \* CHINESENUM2</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że pozycja wstawienia tego pola jest na stronie trzeciej. Kod pola: PAGE \* CHINESENUM2</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation variants="yes">
-            <lengthvariant>Strona</lengthvariant>
-            <lengthvariant>Page</lengthvariant>
-        </translation>
+        <translation>Page</translation>
     </message>
     <message>
         <source>Insert the number of the current page</source>
@@ -8244,42 +8710,27 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>THREE</source>
-        <translation variants="yes">
-            <lengthvariant>TRZY</lengthvariant>
-            <lengthvariant>THREE</lengthvariant>
-        </translation>
+        <translation>TRZY</translation>
     </message>
     <message>
         <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że numer strony zakładki mojej końcowej strony jest 5. Kod pola:ODWOŁANIESTRONY mójKoniecStrony</lengthvariant>
-            <lengthvariant>Przypuszczam, że numer strony zakładki mojej końcowej strony jest 5. Kod pola:PAGEREF myEndPage</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że numer strony zakładki myEndPage to 5. Kod pola: PAGEREF myEndPage</translation>
     </message>
     <message>
         <source>PageRef</source>
-        <translation variants="yes">
-            <lengthvariant>OdwołanieStrony</lengthvariant>
-            <lengthvariant>PageRef</lengthvariant>
-        </translation>
+        <translation>PageRef</translation>
     </message>
     <message>
         <source>Insert the page number containing the specified bookmark</source>
-        <translation>Wstaw numer strony zawierającej podaną zakładkę</translation>
+        <translation>Wstawia numer strony zawierającej podaną zakładkę</translation>
     </message>
     <message>
         <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że w sekcji jest 10 stron, gdzie jest wstawiane to pole. Kod pola:STRONYSEKCJI</lengthvariant>
-            <lengthvariant>Przypuszczam, że w sekcji jest 10 stron, gdzie jest wstawiane to pole. Kod pola:SECTIONPAGES</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że w sekcji, gdzie jest wstawiane to pole, jest 10 stron. Kod pola: SECTIONPAGES</translation>
     </message>
     <message>
         <source>SectionPages</source>
-        <translation variants="yes">
-            <lengthvariant>StronySekcji</lengthvariant>
-            <lengthvariant>SectionPages</lengthvariant>
-        </translation>
+        <translation>SectionPages</translation>
     </message>
     <message>
         <source>Insert the total number of pages in the section</source>
@@ -8287,17 +8738,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The display result of the first place. Field code:SEQ KGS</source>
-        <translation variants="yes">
-            <lengthvariant>Wyświetlanie wyników pierwszego miejsca. Kod pola:SEKWENCJA KGS</lengthvariant>
-            <lengthvariant>Wyświetlanie wyników pierwszego miejsca. Kod pola:SEQ KGS</lengthvariant>
-        </translation>
+        <translation>Wyświetla w pierwszej kolejności wynik. Kod pola: SEQ KGS</translation>
     </message>
     <message>
         <source>Seq</source>
-        <translation variants="yes">
-            <lengthvariant>Sekwencja</lengthvariant>
-            <lengthvariant>Seq</lengthvariant>
-        </translation>
+        <translation>Seq</translation>
     </message>
     <message>
         <source>Insert an automatic sequence number</source>
@@ -8305,28 +8750,19 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>TC</source>
-        <translation variants="yes">
-            <lengthvariant>poleSpisuTreści</lengthvariant>
-            <lengthvariant>TC</lengthvariant>
-        </translation>
+        <translation>TC</translation>
     </message>
     <message>
         <source>Mark a table of contents entry</source>
-        <translation>Oznacza hasło spisu treści</translation>
+        <translation>Oznacza wpis spisu treści</translation>
     </message>
     <message>
         <source>Presume it is August 8 of 2008. Field code:Time \@ yyyy-M-d</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że jest to 08 sierpnia 2008 r. Kod pola:Czas \@ rrrr-M-d</lengthvariant>
-            <lengthvariant>Przypuszczam, że jest to 08 sierpnia 2008 r. Kod pola:Time \@ yyyy-M-d</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że jest to 08 sierpnia 2008 r. Kod pola: Time \@ rrrr-M-d</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation variants="yes">
-            <lengthvariant>Godzina</lengthvariant>
-            <lengthvariant>Time</lengthvariant>
-        </translation>
+        <translation>Time</translation>
     </message>
     <message>
         <source>The current time</source>
@@ -8334,10 +8770,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Create a table of contents</source>
-        <translation variants="yes">
-            <lengthvariant>Utwórz spis treści</lengthvariant>
-            <lengthvariant>Tworzy spis treści</lengthvariant>
-        </translation>
+        <translation>Tworzy spis treści</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -8345,17 +8778,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że jest 20 stron bieżącego dokumentu. Kod pola:LiczbaStron</lengthvariant>
-            <lengthvariant>Przypuszczam, że jest 20 stron bieżącego dokumentu. Kod pola:NumPages</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że bieżący dokument ma 20 stron. Kod pola: NumPages</translation>
     </message>
     <message>
         <source>NumPages</source>
-        <translation variants="yes">
-            <lengthvariant>LiczbaStron</lengthvariant>
-            <lengthvariant>NumPages</lengthvariant>
-        </translation>
+        <translation>NumPages</translation>
     </message>
     <message>
         <source>The number of pages in the document</source>
@@ -8363,21 +8790,15 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>DocVariable</source>
-        <translation variants="yes">
-            <lengthvariant>DocZmienna</lengthvariant>
-            <lengthvariant>DocVariable</lengthvariant>
-        </translation>
+        <translation>DocVariable</translation>
     </message>
     <message>
         <source>Insert the value of document variable NAME</source>
-        <translation>Wstawia wartość zmiennej dokumentu NAZWA</translation>
+        <translation>Wstawia wartość zmiennej dokumentu NAME</translation>
     </message>
     <message>
         <source>StyleRef</source>
-        <translation variants="yes">
-            <lengthvariant>OdwołanieStylu</lengthvariant>
-            <lengthvariant>StyleRef</lengthvariant>
-        </translation>
+        <translation>StyleRef</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
@@ -8385,24 +8806,15 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents, click Options, then select Table entry fields. Field code: TC</source>
-        <translation variants="yes">
-            <lengthvariant>Domyślnie wstawione pole Spisu treści jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: poleSpisuTreści</lengthvariant>
-            <lengthvariant>Domyślnie wstawione pole TC jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: TC</lengthvariant>
-        </translation>
+        <translation>Domyślnie wstawione pole TC jest ukrytym tekstem. Aby wyświetlić to pole, wybierz Wstaw/Odwołanie/Spis treści, kliknij polecenie Opcje, a następnie wybierz Pola wpisów spisu treści. Kod pola: TC</translation>
     </message>
     <message>
         <source>Presume the last print date is August 8 of 2008. Field code:PrintDate \@ yyyy-M-d</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że data ostatniego drukowania to 08 sierpnia 2008 r. Kod pola:DrukujDatę \@ rrrr-M-d</lengthvariant>
-            <lengthvariant>Przypuszczam, że data ostatniego drukowania to 08 sierpnia 2008 r. Kod pola:PrintDate \@ rrrr-M-d</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że data ostatniego drukowania to 08 sierpnia 2008 r. Kod pola: PrintDate \@ rrrr-M-d</translation>
     </message>
     <message>
         <source>PrintDate</source>
-        <translation variants="yes">
-            <lengthvariant>DrukujDatę</lengthvariant>
-            <lengthvariant>PrintDate</lengthvariant>
-        </translation>
+        <translation>PrintDate</translation>
     </message>
     <message>
         <source>last print time</source>
@@ -8410,40 +8822,25 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:ToC \o 1-3 \h  \u</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że są style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola:SpisTreści \o &quot;1-3&quot; \h  \u</lengthvariant>
-            <lengthvariant>Przypuszczam, że są style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola:TOC \o &quot;1-3&quot; \h  \u</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że dokument ma style od Nagłówek 1 do Nagłówek 3 lub istnieją poziomy konspektu od Akapit 1 do Akapit 3. Kod pola: TOC \o &quot;1-3&quot; \h  \u</translation>
     </message>
     <message>
         <source>TOC</source>
-        <translation variants="yes">
-            <lengthvariant>SpisTreści</lengthvariant>
-            <lengthvariant>TOC</lengthvariant>
-        </translation>
+        <translation>TOC</translation>
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola:DOCZMIENNA KingSoft</lengthvariant>
-            <lengthvariant>Przypuszczam, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola:DOCVARIABLE KingSoft</lengthvariant>
-        </translation>
+        <translation type="obsolete">Załóżmy, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola: DOCVARIABLE KingSoft</translation>
     </message>
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
         <comment>wps-&gt; insert field -&gt; mergefield</comment>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że dokument ma otwartą bazę danych, która zawiera pole &quot;Firma&quot;. Kod pola:PoleKorespondencjiSeryjnej &quot;Firma&quot;</lengthvariant>
-            <lengthvariant>Przypuszczam, że dokument ma otwartą bazę danych, która zawiera pole &quot;Firma&quot;. Kod pola:MERGEFIELD &quot;Firma&quot;</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że dokument ma otwartą bazę danych, która zawiera pole &quot;Firma&quot;. Kod pola: MERGEFIELD &quot;Firma&quot;</translation>
     </message>
     <message>
         <source>MergeField</source>
         <comment>wps-&gt; insert field</comment>
-        <translation variants="yes">
-            <lengthvariant>PoleKorespondencjiSeryjnej</lengthvariant>
-            <lengthvariant>MergeField</lengthvariant>
-        </translation>
+        <translation>MergeField</translation>
     </message>
     <message>
         <source>Insert a mail merge field</source>
@@ -8456,17 +8853,14 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;d:\\WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Przypuszczam, że adres url obrazu jest &quot;d:\\WPS.jpg&quot;.Kod pola: DOŁĄCZOBRAZ &quot;d:\\WPS.jpg&quot;</lengthvariant>
             <lengthvariant>Przypuszczam, że adres url obrazu jest &quot;d:\\WPS.jpg&quot;.Kod pola: INCLUDEPICTURE &quot;d:\\WPS.jpg&quot;</lengthvariant>
         </translation>
     </message>
     <message>
         <source>IncludePicture</source>
-        <translation variants="yes">
-            <lengthvariant>DołączObraz</lengthvariant>
-            <lengthvariant>IncludePicture</lengthvariant>
-        </translation>
+        <translation>IncludePicture</translation>
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -8478,21 +8872,143 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
-        <translation variants="yes">
-            <lengthvariant>Przypuszczam, że autorem tego dokumentu jest WPS. Kod pola: DOCWŁAŚCIWOŚĆ Autor</lengthvariant>
-            <lengthvariant>Przypuszczam, że autorem tego dokumentu jest WPS. Kod pola: DOCPPROPERTY Autor</lengthvariant>
-        </translation>
+        <translation>Załóżmy, że autorem tego dokumentu jest WPS. Kod pola: DOCPPROPERTY Autor</translation>
     </message>
     <message>
         <source>DocProperty</source>
-        <translation variants="yes">
-            <lengthvariant>DocWłaściwość</lengthvariant>
-            <lengthvariant>DocProperty</lengthvariant>
-        </translation>
+        <translation>DocProperty</translation>
     </message>
     <message>
         <source>Insert a document property</source>
-        <translation>Wstaw właściwość dokumentu</translation>
+        <translation>Wstawia właściwość dokumentu</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation>/</translation>
+    </message>
+    <message>
+        <source>root directory</source>
+        <translation>katalog główny</translation>
+    </message>
+    <message>
+        <source>D:\\</source>
+        <translation>D:\\</translation>
+    </message>
+    <message>
+        <source>D drive</source>
+        <translation>Dysk D</translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
+        <translation>Załóżmy, że KingSoft.wps jest w %1. Kod pola: HYPERLINK %2KingSoft.wps</translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the %1.</source>
+        <translation>Otwórz i aktywuj plik KingSoft.wps na %1.</translation>
+    </message>
+    <message>
+        <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
+        <translation>Załóżmy, że adres url obrazu to &quot;%1WPS.jpg&quot;. Kod pola: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="obsolete">Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
+    </message>
+    <message>
+        <source>IncludeText</source>
+        <translation type="obsolete">IncludeText</translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="obsolete">Wstawia tekst z pliku</translation>
+    </message>
+    <message>
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation>Załóżmy, że nazwa pliku dokumentu to &quot;Doc1.doc&quot;. Kod pola: FILENAME</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation>FileName</translation>
+    </message>
+    <message>
+        <source>Insert the file name of the document</source>
+        <translation type="obsolete">Wstawia nazwę pliku dokumentu</translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation>Forma&amp;t:</translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
+        <translation>&amp;Właściwość dokumentu:</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation>Załóżmy, że ustawiono zmienną KingSoft przydzieloną jako 100 w VBA. Kod pola: DOCVARIABLE KingSoft</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation>Załóżmy, że adres url pliku to &quot;%1wps.doc&quot;. Kod pola: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation>Wstaw tekst</translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation>Wstaw tekst z pliku</translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation>Wstaw nazwę pliku dokumentu</translation>
+    </message>
+    <message>
+        <source>(Nothing)</source>
+        <translation>(Nie dołączaj)</translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation>Górne</translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation>Niższe</translation>
+    </message>
+    <message>
+        <source>FirstCap</source>
+        <translation>FirstCap</translation>
+    </message>
+    <message>
+        <source>Caps</source>
+        <translation>Caps</translation>
+    </message>
+    <message>
+        <source>SBCHAR</source>
+        <translation>SBCHAR</translation>
+    </message>
+    <message>
+        <source>DBCHAR</source>
+        <translation>DBCHAR</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <translation type="obsolete">Załóżmy, że adres url pliku to &quot;d:\\wps.doc&quot;. Kod pola: INCLUDETEXT &quot;d:\\wps.doc&quot;</translation>
+    </message>
+    <message>
+        <source>Presume the file path of this document is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert part of a file by using OLE</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8611,10 +9127,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>The search item was not found.</source>
-        <translation variants="yes">
-            <lengthvariant>Poszukiwany obiekt nie został znaleziony.</lengthvariant>
-            <lengthvariant>Szukany element nie został znaleziony.</lengthvariant>
-        </translation>
+        <translation>Poszukiwany obiekt nie został znaleziony.</translation>
     </message>
     <message>
         <source>Match Prefix</source>
@@ -8670,7 +9183,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer has completed its search of %1.</source>
-        <translation>WPS Writer ukończył wyszukiwanie %1.</translation>
+        <translation>Program WPS Writer ukończył wyszukiwanie %1.</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>
@@ -8678,36 +9191,27 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>All done. WPS Writer made %1 replacements.</source>
-        <translation>Gotowe. WPS Writer dokonał %1 zamian.</translation>
+        <translation>Gotowe. Program WPS Writer dokonał %1 zamian.</translation>
     </message>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
-        <translation>WPS Writer nie może zamienić znalezionego elementu na tekst zawierający podział.</translation>
+        <translation>Program WPS Writer nie może zamienić znalezionego elementu na tekst zawierający podział.</translation>
     </message>
     <message>
         <source>Any Reviewer</source>
-        <translation variants="yes">
-            <lengthvariant>Dowolny recenzent</lengthvariant>
-            <lengthvariant>Każdy recenzent</lengthvariant>
-        </translation>
+        <translation>Dowolny recenzent</translation>
     </message>
     <message>
         <source>Any Field</source>
-        <translation variants="yes">
-            <lengthvariant>Dowolne pole</lengthvariant>
-            <lengthvariant>Każde pole</lengthvariant>
-        </translation>
+        <translation>Dowolne pole</translation>
     </message>
     <message>
         <source>Any Object</source>
-        <translation variants="yes">
-            <lengthvariant>Dowolny obiekt</lengthvariant>
-            <lengthvariant>Każdy obiekt</lengthvariant>
-        </translation>
+        <translation>Dowolny obiekt</translation>
     </message>
     <message>
         <source>WPS Writer could not determine the destination.</source>
-        <translation>WPS Writer nie może odnaleźć miejsca.</translation>
+        <translation>Program WPS Writer nie może określić miejsca docelowego.</translation>
     </message>
     <message>
         <source>The bookmark does not exist or is hidden.</source>
@@ -8767,17 +9271,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Ignore white-space characters</source>
-        <translation variants="yes">
-            <lengthvariant>Ignoruj białe znaki</lengthvariant>
-            <lengthvariant>Ignoruj znaki odstępu</lengthvariant>
-        </translation>
+        <translation>Ignoruj białe znaki</translation>
     </message>
     <message>
         <source>, Ignore white-space characters</source>
-        <translation variants="yes">
-            <lengthvariant>, Ignoruj białe znaki</lengthvariant>
-            <lengthvariant>, Ignoruj znaki odstępu</lengthvariant>
-        </translation>
+        <translation>, Ignoruj białe znaki</translation>
     </message>
     <message>
         <source>Style:%1</source>
@@ -8829,10 +9327,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Find Font</source>
-        <translation variants="yes">
-            <lengthvariant>Znajdź czcionkę</lengthvariant>
-            <lengthvariant>Znajdowanie czcionki</lengthvariant>
-        </translation>
+        <translation>Znajdź czcionkę</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -8876,15 +9371,15 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>WPS Writer found %1 items matching this criteria</source>
-        <translation>WPS Writer odnalazł %1 elementów spełniających te kryteria</translation>
+        <translation>Program WPS Writer odnalazł %1 elementów spełniających te kryteria</translation>
     </message>
     <message>
         <source>WPS Writer found no items matching this criteria</source>
-        <translation>WPS Writer nie odnalazł żadnych elementów spełniających te kryteria</translation>
+        <translation>Program WPS Writer nie odnalazł żadnych elementów spełniających te kryteria</translation>
     </message>
     <message>
         <source>WPS Writer highlighted %1 items. To clear highlighting, click Reading Highlight and then click Clear Highlighting.</source>
-        <translation>WPS Writer wyróżnił %1 elementów. Aby wyczyścić wyróżnienie, kliknij przycisk Wyróżnienie przy odczycie, a następnie kliknij opcję Wyczyść wyróżnienie.</translation>
+        <translation>Program WPS Writer wyróżnił %1 elementów. Aby wyczyścić wyróżnienie, kliknij przycisk Wyróżnienie przy odczycie, a następnie kliknij opcję Wyczyść wyróżnienie.</translation>
     </message>
 </context>
 <context>
@@ -8898,100 +9393,89 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxFontDlg</name>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation>5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation type="obsolete">5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation>C&amp;zcionka tekstu łacińskiego:</translation>
+        <translation type="obsolete">C&amp;zcionka tekstu łacińskiego:</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>&amp;Czcionka tekstu azjatyckiego:</translation>
+        <translation type="obsolete">&amp;Czcionka tekstu azjatyckiego:</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation variants="yes">
-            <lengthvariant>Standardowy</lengthvariant>
-            <lengthvariant>Regularny</lengthvariant>
-        </translation>
+        <translation type="obsolete">Standardowy</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Kursywa</translation>
+        <translation type="obsolete">Kursywa</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>Pogrubienie</translation>
+        <translation type="obsolete">Pogrubienie</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>Pogrubiona kursywa</translation>
+        <translation type="obsolete">Pogrubiona kursywa</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation>(Brak)</translation>
+        <translation type="obsolete">(Brak)</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation type="obsolete">Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nieprawidłowa wielkość.</translation>
     </message>
     <message>
         <source>Not Italic</source>
-        <translation>Nie kursywa</translation>
+        <translation type="obsolete">Nie kursywa</translation>
     </message>
     <message>
         <source>Not Bold</source>
-        <translation>Niepogrubiona</translation>
+        <translation type="obsolete">Niepogrubiona</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(Użyj czcionki tekstu azjatyckiego)</translation>
+        <translation type="obsolete">(Użyj czcionki tekstu azjatyckiego)</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
-        <translation>To jest czcionka TrueType. Ta sama czcionka będzie używana na ekranie i na drukarce.</translation>
+        <translation type="obsolete">To jest czcionka TrueType. Ta sama czcionka będzie używana na ekranie i na drukarce.</translation>
     </message>
     <message>
         <source>This font has not been installed. The most similar available font will be printed.</source>
-        <translation>Ta czcionka nie została zainstalowana. Na wydruku zostanie użyta najbliższa dostępna czcionka.</translation>
+        <translation type="obsolete">Ta czcionka nie została zainstalowana. Na wydruku zostanie użyta najbliższa dostępna czcionka.</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>Czcionka %1 nie jest dostępna w systemie. Tekst pojawi się w czcionce zastępczej. Czy mimo to nadal chcesz jej użyć?</translation>
+        <translation type="obsolete">Czcionka %1 nie jest dostępna w systemie. Tekst pojawi się w czcionce zastępczej. Czy mimo to nadal chcesz jej użyć?</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>Ten styl czcionki nie jest dostępny.</translation>
+        <translation type="obsolete">Ten styl czcionki nie jest dostępny.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
 This change will affect all new documents based on the %1 template.</source>
-        <translation>Czy chcesz zmienić domyślne ustawienia czcionki?
+        <translation type="obsolete">Czy chcesz zmienić domyślne ustawienia czcionki?
 Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie %1.</translation>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
-        <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
+        <translation type="obsolete">Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
     </message>
     <message>
         <source>Measurement must be between %1 pt and %2 pt</source>
-        <translation>Pomiar musi zawierać się pomiędzy %1 pkt a %2 pkt</translation>
+        <translation type="obsolete">Pomiar musi się zawierać w przedziale między %1 pkt i %2 pkt</translation>
     </message>
 </context>
 <context>
@@ -9034,23 +9518,23 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The measurement must be between 1 and 16383.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 16383.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 16383.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 10.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 32767.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 32767.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 32767.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 754.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 754.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 12.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 12.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -9058,13 +9542,24 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
 </context>
 <context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxFormatRestrictionsDlg</name>
     <message>
         <source>Used in this document</source>
-        <translation variants="yes">
-            <lengthvariant>Używane w tym dokumencie</lengthvariant>
-            <lengthvariant>Użyte w tym dokumencie</lengthvariant>
-        </translation>
+        <translation>Użyte w tym dokumencie</translation>
     </message>
     <message>
         <source>Built-in</source>
@@ -9081,6 +9576,17 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <message>
         <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
         <translation>Ten dokument może zawierać formatowanie lub style, które nie są dozwolone. Czy chcesz je usunąć?</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormattingTp</name>
+    <message>
+        <source>Format Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9109,10 +9615,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Top of document</source>
-        <translation variants="yes">
-            <lengthvariant>Początek dokumentu</lengthvariant>
-            <lengthvariant>Góra dokumentu</lengthvariant>
-        </translation>
+        <translation>Początek dokumentu</translation>
     </message>
     <message>
         <source>Headings</source>
@@ -9205,7 +9708,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>State</source>
-        <translatorcomment>Stan</translatorcomment>
         <translation>Województwo</translation>
     </message>
     <message>
@@ -9285,7 +9787,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxInsertNumberDlg</name>
     <message>
         <source>Input a correct number.</source>
-        <translation>Wprowadź prawidłowy numer.</translation>
+        <translation>Wprowadź prawidłową liczbę.</translation>
     </message>
     <message>
         <source>Use Default Numbering</source>
@@ -9293,41 +9795,41 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>The value must be between %1 and %2.</source>
-        <translation>Wartość musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableDlg</name>
     <message>
         <source>The input value must be between 1 and 63.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy 1 a 63.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między 1 i 63.</translation>
     </message>
     <message>
         <source>The input value must be between 1 and 600.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy 1 a 600.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między 1 i 600.</translation>
     </message>
     <message>
         <source>The measurement must be between 4.5 pt and 1584 pt.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 4,5 pkt a 1584 pkt.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 4,5 pkt i 1584 pkt.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.07 in and 22 in.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0,07 cala a 22 cali.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,07 cala i 22 cali.</translation>
     </message>
     <message>
         <source>The measurement must be between 0.16 cm and 55.88 cm.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0,16 cm a 55,88 cm.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0,16 cm i 55,88 cm.</translation>
     </message>
     <message>
         <source>The measurement must be between 1.59 mm and 558.84 mm.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1,59 mm a 558,84 mm.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1,59 mm i 558,84 mm.</translation>
     </message>
 </context>
 <context>
     <name>KxInsertTableRowsDlg</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
@@ -9346,7 +9848,6 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Created Time</source>
-        <translatorcomment>Czas utworzenia</translatorcomment>
         <translation>Godzina utworzenia</translation>
     </message>
     <message>
@@ -9358,20 +9859,14 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxMatchFieldsDlg</name>
     <message>
         <source>(Not matched)</source>
-        <translation variants="yes">
-            <lengthvariant>(Niepasujący)</lengthvariant>
-            <lengthvariant>(Nie dopasowano)</lengthvariant>
-        </translation>
+        <translation>(Niepasujący)</translation>
     </message>
 </context>
 <context>
     <name>KxMergeCompareDlg</name>
     <message>
         <source>Compare Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Porównaj dokumenty</lengthvariant>
-            <lengthvariant>Porównywanie dokumentów</lengthvariant>
-        </translation>
+        <translation>Porównywanie dokumentów</translation>
     </message>
     <message>
         <source>Lab&amp;el changes with</source>
@@ -9383,10 +9878,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Merge Documents</source>
-        <translation variants="yes">
-            <lengthvariant>Scal dokumenty</lengthvariant>
-            <lengthvariant>Scalanie dokumentów</lengthvariant>
-        </translation>
+        <translation>Scal dokumenty</translation>
     </message>
     <message>
         <source>Lab&amp;el unmarked changes with:</source>
@@ -9422,10 +9914,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Cannot compare the unsaved read-only document.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie można porównywać niezapisanego dokumentu w trybie tylko do odczytu.</lengthvariant>
-            <lengthvariant>Nie można porównać niezapisanego dokumentu w trybie tylko do odczytu.</lengthvariant>
-        </translation>
+        <translation>Nie można porównywać niezapisanego dokumentu w trybie tylko do odczytu.</translation>
     </message>
     <message>
         <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
@@ -9440,16 +9929,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Browse Folder</source>
@@ -9464,7 +9948,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
-        <translation>WPS Writer nie może scalać dokumentów, które można wysyłać pocztą bez podania prawidłowego adresu.</translation>
+        <translation>Program WPS Writer nie może scalać dokumentów, które można wysyłać pocztą bez podania prawidłowego adresu.</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -9475,14 +9959,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxMergeToNewDocOrPrinterDlg</name>
     <message>
         <source>Merge to New Document</source>
-        <translation variants="yes">
-            <lengthvariant>Scal z nowym dokumentem</lengthvariant>
-            <lengthvariant>Scalanie z nowym dokumentem</lengthvariant>
-        </translation>
+        <translation>Scalanie z nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
-        <translation>Scal na drukarkę</translation>
+        <translation>Scalanie na drukarkę</translation>
     </message>
     <message>
         <source>The number must not be nil</source>
@@ -9490,16 +9971,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The value must not be blank.</source>
@@ -9546,67 +10022,67 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Itatic, </source>
-        <translation>Kursywa, </translation>
+        <translation type="obsolete">Kursywa, </translation>
     </message>
     <message>
         <source>0#</source>
-        <translation>0#</translation>
+        <translation type="obsolete">0#</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>0-#</translation>
+        <translation type="obsolete">0-#</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>1#</translation>
+        <translation type="obsolete">1#</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>1-#</translation>
+        <translation type="obsolete">1-#</translation>
     </message>
     <message>
         <source>2#</source>
-        <translation>2#</translation>
+        <translation type="obsolete">2#</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>2-#</translation>
+        <translation type="obsolete">2-#</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>3#</translation>
+        <translation type="obsolete">3#</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>3-#</translation>
+        <translation type="obsolete">3-#</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>4#</translation>
+        <translation type="obsolete">4#</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>4-#</translation>
+        <translation type="obsolete">4-#</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>5#</translation>
+        <translation type="obsolete">5#</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>5-#</translation>
+        <translation type="obsolete">5-#</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>6#</translation>
+        <translation type="obsolete">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>7#</translation>
+        <translation type="obsolete">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>8#</translation>
+        <translation type="obsolete">8#</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -9614,16 +10090,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -9701,18 +10172,15 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Border...</source>
-        <translation>&amp;Krawędź....</translation>
+        <translation>&amp;Obramowanie....</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Numerowanie...</lengthvariant>
-            <lengthvariant>&amp;Numeracja...</lengthvariant>
-        </translation>
+        <translation>&amp;Numerowanie...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation>&amp;Skrót...</translation>
+        <translation>&amp;Klawisz skrótu...</translation>
     </message>
     <message>
         <source>None</source>
@@ -9725,6 +10193,90 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation>Chiński Chuhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation>Chiński Xiaochu</translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation>Chiński Yihao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation>Chiński Xiaoyi</translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation>Chiński Erhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation>Chiński Xiaoer</translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation>Chiński Sanhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation>Chiński Xiaosan</translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation>Chiński Sihao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation>Chiński Xiaosi</translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation>Chiński Wuhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation>Chiński Xiaowu</translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation>Chiński Liuhao</translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation>Chiński Qihao</translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation>Chiński Bahao</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation>Kursywa, </translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9750,7 +10302,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Itatic, </source>
-        <translation>Kursywa, </translation>
+        <translation type="obsolete">Kursywa, </translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -9774,10 +10326,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -9785,7 +10334,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>LeftAndRight</source>
-        <translation>Z lewej i prawej</translation>
+        <translation type="obsolete">Z lewej i prawej</translation>
     </message>
     <message>
         <source>Dispersion</source>
@@ -9801,63 +10350,63 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>0#</source>
-        <translation>0#</translation>
+        <translation type="obsolete">0#</translation>
     </message>
     <message>
         <source>0-#</source>
-        <translation>0-#</translation>
+        <translation type="obsolete">0-#</translation>
     </message>
     <message>
         <source>1#</source>
-        <translation>1#</translation>
+        <translation type="obsolete">1#</translation>
     </message>
     <message>
         <source>1-#</source>
-        <translation>1-#</translation>
+        <translation type="obsolete">1-#</translation>
     </message>
     <message>
         <source>2#</source>
-        <translation>2#</translation>
+        <translation type="obsolete">2#</translation>
     </message>
     <message>
         <source>2-#</source>
-        <translation>2-#</translation>
+        <translation type="obsolete">2-#</translation>
     </message>
     <message>
         <source>3#</source>
-        <translation>3#</translation>
+        <translation type="obsolete">3#</translation>
     </message>
     <message>
         <source>3-#</source>
-        <translation>3-#</translation>
+        <translation type="obsolete">3-#</translation>
     </message>
     <message>
         <source>4#</source>
-        <translation>4#</translation>
+        <translation type="obsolete">4#</translation>
     </message>
     <message>
         <source>4-#</source>
-        <translation>4-#</translation>
+        <translation type="obsolete">4-#</translation>
     </message>
     <message>
         <source>5#</source>
-        <translation>5#</translation>
+        <translation type="obsolete">5#</translation>
     </message>
     <message>
         <source>5-#</source>
-        <translation>5-#</translation>
+        <translation type="obsolete">5-#</translation>
     </message>
     <message>
         <source>6#</source>
-        <translation>6#</translation>
+        <translation type="obsolete">6#</translation>
     </message>
     <message>
         <source>7#</source>
-        <translation>7#</translation>
+        <translation type="obsolete">7#</translation>
     </message>
     <message>
         <source>8#</source>
-        <translation>8#</translation>
+        <translation type="obsolete">8#</translation>
     </message>
     <message>
         <source>Left alignment</source>
@@ -9917,31 +10466,23 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>&amp;Border...</source>
-        <translation>&amp;Krawędź....</translation>
+        <translation>&amp;Obramowanie....</translation>
     </message>
     <message>
         <source>&amp;Numbering...</source>
-        <translation variants="yes">
-            <lengthvariant>&amp;Numerowanie...</lengthvariant>
-            <lengthvariant>&amp;Numeracja...</lengthvariant>
-        </translation>
+        <translation>&amp;Numerowanie...</translation>
     </message>
     <message>
         <source>&amp;Shortcut...</source>
-        <translation>&amp;Skrót...</translation>
+        <translation>&amp;Klawisz skrótu...</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>None</source>
@@ -9969,15 +10510,100 @@ Anuluj:	Powrót do okna dialogowego.</translation>
         <source>Save failed. Normal Template is occupied.</source>
         <translation>Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
     </message>
+    <message>
+        <source>Left and Right</source>
+        <translation>Z lewej i prawej</translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation>Chiński Chuhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation>Chiński Xiaochu</translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation>Chiński Yihao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation>Chiński Xiaoyi</translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation>Chiński Erhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation>Chiński Xiaoer</translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation>Chiński Sanhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation>Chiński Xiaosan</translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation>Chiński Sihao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation>Chiński Xiaosi</translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation>Chiński Wuhao</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation>Chiński Xiaowu</translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation>Chiński Liuhao</translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation>Chiński Qihao</translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation>Chiński Bahao</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation>Kursywa, </translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOptionsDlg</name>
     <message>
         <source>By author</source>
-        <translation variants="yes">
-            <lengthvariant>Według autora</lengthvariant>
-            <lengthvariant>Przez autora</lengthvariant>
-        </translation>
+        <translation>Według autora</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -10001,7 +10627,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation>WPS Writer napotkał błąd podczas dostosowywania zabezpieczeń makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
     </message>
     <message>
         <source>The password of the file encryption must be no longer than 15 characters.</source>
@@ -10009,29 +10635,31 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
-        <translation>Maksymalna liczba kroków Cofnij/Powtórz musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Maksymalna liczba kroków Cofnij/Ponów musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation variants="yes">
-            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
-            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
-        <translation variants="yes">
-            <lengthvariant>Katalog &quot;%1&quot; jest nieprawidłowy.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest poprawny.</lengthvariant>
-            <lengthvariant>Katalog &quot;%1&quot; nie jest prawidłowy.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowy katalog &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>No Documents Open</source>
+        <translation>Brak otwartych dokumentów</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -10145,23 +10773,23 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 16383.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0 a 16383.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0 i 16383.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 10.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 10.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 10.</translation>
     </message>
     <message>
         <source>The measurement must be between 0 and 32767.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 0 a 32767.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 0 i 32767.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 754.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 754.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 754.</translation>
     </message>
     <message>
         <source>The measurement must be between 1 and 12.</source>
-        <translation>Pomiar musi zawierać się pomiędzy 1 a 12.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między 1 i 12.</translation>
     </message>
     <message>
         <source>①</source>
@@ -10232,10 +10860,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>Using the printer setup</source>
-        <translation variants="yes">
-            <lengthvariant>Użyj ustawienia drukarki</lengthvariant>
-            <lengthvariant>Używając ustawienia drukarki</lengthvariant>
-        </translation>
+        <translation>Używając ustawienia drukarki</translation>
     </message>
     <message>
         <source>&amp;Inside</source>
@@ -10289,40 +10914,29 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
     <name>KxParagraphDlg</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation type="obsolete">Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
     <name>KxPhoneticGuideDlg</name>
     <message>
         <source>This is not a valid number.</source>
-        <translation variants="yes">
-            <lengthvariant>To nie jest prawidłowa liczba.</lengthvariant>
-            <lengthvariant>To jest nieprawidłową liczbą.</lengthvariant>
-            <lengthvariant>Liczba jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa liczba.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa liczba.</translation>
     </message>
     <message>
         <source>The number must be between %1 and %1.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %1.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %1.</translation>
     </message>
     <message>
         <source>Please select the base text for the Phonetic Guide.</source>
@@ -10349,7 +10963,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
@@ -10360,10 +10974,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <name>KxProtectDocumentDlg</name>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation variants="yes">
-            <lengthvariant>Hasło potwierdzające nie pasuje.</lengthvariant>
-            <lengthvariant>Hasło potwierdzające nie jest zgodne.</lengthvariant>
-        </translation>
+        <translation>Potwierdzenie hasła jest niezgodne.</translation>
     </message>
 </context>
 <context>
@@ -10385,10 +10996,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Merge to Previous</source>
-        <translation variants="yes">
-            <lengthvariant>Scal z poprzednią</lengthvariant>
-            <lengthvariant>Scal z poprzednią sekcją</lengthvariant>
-        </translation>
+        <translation>Scal z poprzednią</translation>
     </message>
     <message>
         <source>Delete Section</source>
@@ -10463,7 +11071,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <name>KxSpiltCellsDlg</name>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation>Liczba musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Liczba musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>The number must be a divisor of %1.</source>
@@ -10486,10 +11094,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Do you want to overwrite the shortcut of [%1]? </source>
-        <translation variants="yes">
-            <lengthvariant>Czy chcesz nadpisać skrót [%1]? </lengthvariant>
-            <lengthvariant>Czy chcesz zastąpić skrót [%1]? </lengthvariant>
-        </translation>
+        <translation>Czy chcesz zastąpić skrót [%1]? </translation>
     </message>
 </context>
 <context>
@@ -10507,7 +11112,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
-        <translation>Wszystkie</translation>
+        <translation type="obsolete">Wszystkie</translation>
     </message>
 </context>
 <context>
@@ -10581,7 +11186,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>The input value must be between %1 and %2.</source>
-        <translation>Wartość wejściowa musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wartość wejściowa musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -10597,10 +11202,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>What you entered contains formatting error.</source>
-        <translation variants="yes">
-            <lengthvariant>Twój wpis zawiera błąd formatowania.</lengthvariant>
-            <lengthvariant>To co wpisałeś zawiera błąd formatowania</lengthvariant>
-        </translation>
+        <translation>Twój wpis zawiera błąd formatowania.</translation>
     </message>
 </context>
 <context>
@@ -10665,6 +11267,10 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>Read-only</source>
         <translation>Tylko do odczytu</translation>
     </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation>Ogranicz uprawnienia...</translation>
+    </message>
 </context>
 <context>
     <name>KxTpDocProtectionWidget</name>
@@ -10702,10 +11308,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     </message>
     <message>
         <source>Contributors</source>
-        <translation variants="yes">
-            <lengthvariant>Współpracownicy</lengthvariant>
-            <lengthvariant>Współautorzy</lengthvariant>
-        </translation>
+        <translation>Współpracownicy</translation>
     </message>
     <message>
         <source>Users with full control</source>
@@ -10731,10 +11334,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
         <source>If you make this change in document protection, WPS Writer will ignore all the exceptions in this document.
 
 Do you want to remove the ignored exceptions?</source>
-        <translatorcomment>Po wprowadzeniu tej zmiany w ochronie dokumentu WPS Writer będzie ignorował wszystkie wyjątki w tym dokumencie.
-
-Czy chcesz usunąć ignorowane wyjątki?</translatorcomment>
-        <translation>Jeżeli wprowadzisz tą zmianą w ochronie dokumentu, WPS Writer będzie ignorował wszystkie wyjątki w tym dokumencie.
+        <translation>Po wprowadzeniu tej zmiany w ochronie dokumentu program WPS Writer będzie ignorował wszystkie wyjątki w tym dokumencie.
 
 Czy chcesz usunąć ignorowane wyjątki?</translation>
     </message>
@@ -10765,6 +11365,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>You may edit in this region,but all changes will be tracked.</source>
         <translation>Możesz edytować ten region, ale wszystkie zmiany będą śledzone.</translation>
+    </message>
+    <message>
+        <source>Restrict permission...</source>
+        <translation>Ogranicz uprawnienia...</translation>
     </message>
 </context>
 <context>
@@ -10806,6 +11410,124 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxTpWpsXMLMappingWidget</name>
+    <message>
+        <source>(add customXmlparts...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Repeat</source>
+        <translation type="unfinished">&amp;Powtórz</translation>
+    </message>
+    <message>
+        <source>&amp;Rich Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain &amp;Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comno &amp;Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Dropdown List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Pic&amp;ker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Map to Selected Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation type="unfinished">Pliki XML</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished">Wszystkie pliki</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Otwórz</translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped to built-in document properties.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped when they are nested within other mapped rich text content controls.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a plain text Content control, so it can&apos;t be mapped to a rich text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a rich text Content control, so it can&apos;t be mapped to a plain text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(empty namespaceURI)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpXMLStructureWidget</name>
+    <message>
+        <source>Templates And AddIns...</source>
+        <translation>Szablony i dodatki...</translation>
+    </message>
+    <message>
+        <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
+        <translation>Ten jest stosowany do pierwszego elementu tego dokumentu. Czy chcesz zastosować do całego dokumentu lub tylko do bieżącego zakresu.</translation>
+    </message>
+    <message>
+        <source>Add to entire document(&amp;E)</source>
+        <translation>Dodaj do całego dokumentu (&amp;C)</translation>
+    </message>
+    <message>
+        <source>Add to current selected content range only(&amp;S)</source>
+        <translation>Dodaj tylko do bieżącego zaznaczonego zakresu zawartości (&amp;Z)</translation>
+    </message>
+    <message>
+        <source>Cancel(&amp;C)</source>
+        <translation>Anuluj (&amp;A)</translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements in multi areas.</source>
+        <translation>Nie można dodać elementów XML w wielu obszarach.</translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements here.</source>
+        <translation>Nie można tutaj dodać elementów XML.</translation>
+    </message>
+    <message>
+        <source>&amp;Remove %1 tag</source>
+        <translation>&amp;Usuń tag %1</translation>
+    </message>
+</context>
+<context>
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -10823,7 +11545,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWidgetLayout</name>
     <message>
         <source>Drawing Grid</source>
-        <translation>Siatka rysowania</translation>
+        <translation type="obsolete">Siatka rysowania</translation>
     </message>
     <message>
         <source>Wrapping style</source>
@@ -10835,7 +11557,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation>Od &amp;góry i dołu</translation>
+        <translation type="obsolete">&amp;Góra i dół</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
@@ -10859,10 +11581,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalLeft</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyrównanieWPoziomieDoLewej</lengthvariant>
-            <lengthvariant>rbHorizontalLeft</lengthvariant>
-        </translation>
+        <translation>rbHorizontalLeft</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -10870,10 +11589,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalCenter</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyśrodkowanieWPoziomie</lengthvariant>
-            <lengthvariant>rbHorizontalCenter</lengthvariant>
-        </translation>
+        <translation>rbHorizontalCenter</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -10881,10 +11597,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalRight</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyrównanieWPoziomieDoPrawej</lengthvariant>
-            <lengthvariant>rbHorizontalRight</lengthvariant>
-        </translation>
+        <translation>rbHorizontalRight</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -10892,10 +11605,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>rbHorizontalOther</source>
-        <translation variants="yes">
-            <lengthvariant>rbWyrównanieWPoziomieInne</lengthvariant>
-            <lengthvariant>rbHorizontalOther</lengthvariant>
-        </translation>
+        <translation>rbHorizontalOther</translation>
     </message>
     <message>
         <source>&amp;Other</source>
@@ -10904,6 +11614,62 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>&amp;Advanced...</source>
         <translation>&amp;Zaawansowane...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLMapping</name>
+    <message>
+        <source>XmlMapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>custom xmlparts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLStructure</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Elements in the document:</source>
+        <translation>Elementy w dokumencie:</translation>
+    </message>
+    <message>
+        <source>No XML elements have been applied to this document.</source>
+        <translation>Do tego dokumentu nie zastosowano żadnych elementów XML.</translation>
+    </message>
+    <message>
+        <source>Make a selection in the document and then choose which element you want to apply from the list of elements.</source>
+        <translation>Dokonaj zaznaczenia w dokumencie, a następnie wybierz z listy element, który chcesz zastosować.</translation>
+    </message>
+    <message>
+        <source>Show XML tags in the document</source>
+        <translation>Pokaż tagi XML w dokumencie</translation>
+    </message>
+    <message>
+        <source>Choose an element to apply to your current selection:</source>
+        <translation>Wybierz element, który zostanie zastosowany do bieżącego zaznaczenia:</translation>
+    </message>
+    <message>
+        <source>List only child elements of current element</source>
+        <translation>Pokaż na liście tylko elementy podrzędne bieżącego elementu</translation>
+    </message>
+    <message>
+        <source>You can apply your own XML elements
+to a Word XML document.</source>
+        <translation>Do dokumentu XML Word
+można zastosować własne elementy XML.</translation>
+    </message>
+    <message>
+        <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
+        <translation>Aby zastosować własne elementy XML w tym dokumencie, należy najpierw wybrać schemat.</translation>
+    </message>
+    <message>
+        <source>you can do this by going to:</source>
+        <translation>można to zrobić przechodząc do:</translation>
     </message>
 </context>
 <context>
@@ -10942,10 +11708,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
-        <translation variants="yes">
-            <lengthvariant>Uwzględnij przypisy &amp;dolne i przypisy końcowe</lengthvariant>
-            <lengthvariant></lengthvariant>
-        </translation>
+        <translation>Dołącz przypisy &amp;dolne i przypisy końcowe</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10964,7 +11727,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automatycznie</translation>
+        <translation type="obsolete">Automatycznie</translation>
     </message>
 </context>
 <context>
@@ -11208,6 +11971,20 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsCompatibilityModeCommand</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsContentButtonMgr</name>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsContentsGalleryCommand</name>
     <message>
         <source>Insert Contents Page...</source>
@@ -11219,10 +11996,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Insert Custom Contents</source>
-        <translation variants="yes">
-            <lengthvariant>Wstaw niestandardową zawartość</lengthvariant>
-            <lengthvariant>Wstawianie niestandardowej zawartości</lengthvariant>
-        </translation>
+        <translation>Wstaw niestandardową zawartość</translation>
     </message>
     <message>
         <source>Insert Contents</source>
@@ -11351,10 +12125,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Centered</source>
-        <translation variants="yes">
-            <lengthvariant>Wyśrodkowany</lengthvariant>
-            <lengthvariant>Wyśrodkowane</lengthvariant>
-        </translation>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message>
         <source>Right</source>
@@ -11402,10 +12173,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>DRAFT</source>
-        <translation variants="yes">
-            <lengthvariant>PROJEKT</lengthvariant>
-            <lengthvariant>WERSJA ROBOCZA</lengthvariant>
-        </translation>
+        <translation>WERSJA ROBOCZA</translation>
     </message>
     <message>
         <source>36</source>
@@ -11481,10 +12249,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>(Has successfully added pictures)</source>
-        <translation variants="yes">
-            <lengthvariant>(Pomyślnie dodano obrazy)</lengthvariant>
-            <lengthvariant>(Pomyślnie dodane obrazy)</lengthvariant>
-        </translation>
+        <translation>(Pomyślnie dodano obrazy)</translation>
     </message>
     <message>
         <source>Text Tooltip</source>
@@ -11508,7 +12273,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>The number must be between 5 and 500.</source>
-        <translation>Liczba musi zawierać się pomiędzy 5 a 500.</translation>
+        <translation>Liczba musi się zawierać w przedziale między 5 i 500.</translation>
     </message>
     <message>
         <source>Scale Tooltip</source>
@@ -11516,10 +12281,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Please input the text of the watermark.</source>
-        <translation variants="yes">
-            <lengthvariant>Proszę wprowadzić tekst znaku wodnego.</lengthvariant>
-            <lengthvariant>Proszę wpisać tekst znaku wodnego.</lengthvariant>
-        </translation>
+        <translation>Proszę wprowadzić tekst znaku wodnego.</translation>
     </message>
     <message>
         <source>Picture Tooltip</source>
@@ -11565,7 +12327,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Show header line</source>
-        <translation>Pokaż wiersz nagłówka</translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
         <source>Alt+B</source>
@@ -11581,10 +12343,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Header or footer link to previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do poprzedniego nagłówka lub stopki</lengthvariant>
-            <lengthvariant>Nagłówek lub stopka - łącze do poprzedniego</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniego nagłówka lub stopki</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -11668,57 +12427,39 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Show odd page header line(&amp;B)</source>
-        <translation>Pokaż na stronach nieparzystych wiersz nagłówka (&amp;B)</translation>
+        <translation>Pokaż linię nagłówka na stronach nieparzystych (&amp;B)</translation>
     </message>
     <message>
         <source>Show even page header line(&amp;C)</source>
-        <translation>Pokaż na stronach parzystych wiersz nagłówka (&amp;C)</translation>
+        <translation>Pokaż linię nagłówka na stronach parzystych (&amp;C)</translation>
     </message>
     <message>
         <source>Show first page hea&amp;der line</source>
-        <translation>Pokaż na pierwszej stronie wiersz &amp;nagłówka</translation>
+        <translation>Pokaż linię &amp;nagłówka na pierwszej stronie</translation>
     </message>
     <message>
         <source>Odd h&amp;eader link to previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do poprzedniego nieparzystego n&amp;agłówka</lengthvariant>
-            <lengthvariant>Nieparzysty n&amp;agłówek - łącze do poprzedniego</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniego nieparzystego n&amp;agłówka</translation>
     </message>
     <message>
         <source>Even header link to previous(&amp;G)</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do poprzedniego parzystego nagłówka (&amp;G)</lengthvariant>
-            <lengthvariant>Parzysty nagłówek - łącze do poprzedniego (&amp;G)</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniego parzystego nagłówka (&amp;G)</translation>
     </message>
     <message>
         <source>F&amp;irst header link to previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do p&amp;ierwszego nagłówka</lengthvariant>
-            <lengthvariant>P&amp;ierwszy nagłówek - łącze do poprzedniego</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniego p&amp;ierwszego nagłówka</translation>
     </message>
     <message>
         <source>Odd footer link to previous(&amp;J)</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do poprzedniej nieparzystej stopki (&amp;J)</lengthvariant>
-            <lengthvariant>Nieparzysta stopka - łącze do poprzedniej (&amp;J)</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniej nieparzystej stopki (&amp;J)</translation>
     </message>
     <message>
         <source>Even footer lin&amp;k to previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łąc&amp;ze do poprzedniej parzystej stopki</lengthvariant>
-            <lengthvariant>Parzysta stopka - łąc&amp;ze do poprzedniej</lengthvariant>
-        </translation>
+        <translation>Łąc&amp;ze do poprzedniej parzystej stopki</translation>
     </message>
     <message>
         <source>First footer &amp;link to previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do p&amp;ierwszej stopki</lengthvariant>
-            <lengthvariant>P&amp;ierwsza stopka - łącze do poprzedniej</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniej pi&amp;erwszej stopki</translation>
     </message>
     <message>
         <source>Surround &amp;header</source>
@@ -11727,6 +12468,20 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>Surround &amp;footer</source>
         <translation>Otaczanie &amp;stopki</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgHorizontalLine</name>
+    <message>
+        <source>Format Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgShapeLayout</name>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Układ</translation>
     </message>
 </context>
 <context>
@@ -11745,7 +12500,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <source>&amp;Attach...</source>
@@ -11771,6 +12526,160 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
         <source> Full path: </source>
         <translation> Pełna ścieżka: </translation>
     </message>
+    <message>
+        <source>XML Schema</source>
+        <translation>Schemat XML</translation>
+    </message>
+    <message>
+        <source>Available &amp;XML schemas</source>
+        <translation>Dostępne schematy &amp;XML</translation>
+    </message>
+    <message>
+        <source>Checked schemas are currently attached:</source>
+        <translation>Zaznaczone schematy są obecnie dołączone:</translation>
+    </message>
+    <message>
+        <source>Schema &amp;Library...</source>
+        <translation>&amp;Biblioteka schematów...</translation>
+    </message>
+    <message>
+        <source>Add S&amp;chema...</source>
+        <translation>Dodaj s&amp;chemat...</translation>
+    </message>
+    <message>
+        <source>Schema Information</source>
+        <translation>Informacje o schemacie</translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation>URI:</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>Ścieżka:</translation>
+    </message>
+    <message>
+        <source>XMLExtend</source>
+        <translation>Pakiet rozszerzenia XML</translation>
+    </message>
+    <message>
+        <source>Attached XMLExtend Pack</source>
+        <translation>Dołączony pakiet rozszerzenia XML</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>Nazwa:</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Etykieta tekstowa</translation>
+    </message>
+    <message>
+        <source>Source URL:</source>
+        <translation>Źródłowy adres URL:</translation>
+    </message>
+    <message>
+        <source>Delete(&amp;R)</source>
+        <translation>Usuń (&amp;R)</translation>
+    </message>
+    <message>
+        <source>Available XMLExtend Pack</source>
+        <translation>Dostępny pakiet rozszerzenia XML</translation>
+    </message>
+    <message>
+        <source>Select(&amp;A)</source>
+        <translation>Wybierz (&amp;A)</translation>
+    </message>
+    <message>
+        <source>Delete(&amp;E)</source>
+        <translation>Usuń (&amp;E)</translation>
+    </message>
+    <message>
+        <source>Update(&amp;P)</source>
+        <translation>Aktualizuj (&amp;P)</translation>
+    </message>
+    <message>
+        <source>Add(&amp;D)...</source>
+        <translation>Dodaj (&amp;D)...</translation>
+    </message>
+    <message>
+        <source>Disa&amp;ble</source>
+        <translation>W&amp;yłącz</translation>
+    </message>
+    <message>
+        <source>&amp;Enable</source>
+        <translation>&amp;Włącz</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaLibrary</name>
+    <message>
+        <source>Schema Library</source>
+        <translation>Biblioteka schematów</translation>
+    </message>
+    <message>
+        <source>Schemas</source>
+        <translation>Schematy</translation>
+    </message>
+    <message>
+        <source>&amp;Select a schema:</source>
+        <translation>&amp;Wybierz schemat:</translation>
+    </message>
+    <message>
+        <source>&amp;Add Schema...</source>
+        <translation>&amp;Dodaj schemat...</translation>
+    </message>
+    <message>
+        <source>Sch&amp;ema Settings...</source>
+        <translation>Ustawienia sch&amp;ematu...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Schema</source>
+        <translation>&amp;Usuń schemat</translation>
+    </message>
+    <message>
+        <source>&amp;Update Schema</source>
+        <translation>&amp;Aktualizuj schemat</translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation>URI:</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>Ścieżka:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaSetting</name>
+    <message>
+        <source>Schema Settings</source>
+        <translation>Ustawienia schematu</translation>
+    </message>
+    <message>
+        <source>Edit schema information</source>
+        <translation>Edytuj informacje o schemacie</translation>
+    </message>
+    <message>
+        <source>&amp;URI</source>
+        <translation>&amp;URI</translation>
+    </message>
+    <message>
+        <source>&amp;Alias</source>
+        <translation>&amp;Alias</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation>&amp;Lokalizacja</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>&amp;Przeglądaj...</translation>
+    </message>
+    <message>
+        <source>&amp;Changes affect current user only</source>
+        <translation>&amp;Zmiany dotyczą tylko bieżącego użytkownika</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
@@ -11788,35 +12697,282 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Document Map</source>
-        <translation>Plan dokumentu</translation>
+        <translation>Mapa dokumentu</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDropDownButton</name>
+    <message>
+        <source>(No entry)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
-        <translation>Ogranicznik pola i ogranicznika rekordu nie mogą być takie same.</translation>
+        <translation type="obsolete">Ogranicznik pól nie może być taki sam jak ogranicznik rekordów.</translation>
+    </message>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation>Ogranicznik pól nie może być taki sam jak ogranicznik rekordów.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translation type="obsolete">Bez wypełnienia</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished">Bez koloru</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFillColorModel2</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translation type="obsolete">Bez wypełnienia</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFillColorRainbowModel</name>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished">Bez koloru</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automatycznie</translation>
+        <translation type="obsolete">Automatycznie</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontDlg</name>
+    <message>
+        <source>(Use Asian text font)</source>
+        <translation type="unfinished">(Użyj czcionki tekstu azjatyckiego)</translation>
+    </message>
+    <message>
+        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
+        <translation type="unfinished">5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
+        <translation type="unfinished">To jest czcionka TrueType. Ta sama czcionka będzie używana na ekranie i na drukarce.</translation>
+    </message>
+    <message>
+        <source>This font has not been installed. The most similar available font will be printed.</source>
+        <translation type="unfinished">Ta czcionka nie została zainstalowana. Na wydruku zostanie użyta najbliższa dostępna czcionka.</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="unfinished">Nie kursywa</translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="unfinished">Niepogrubiona</translation>
+    </message>
+    <message>
+        <source>Latin text &amp;font:</source>
+        <translation type="unfinished">C&amp;zcionka tekstu łacińskiego:</translation>
+    </message>
+    <message>
+        <source>Asian text fo&amp;nt:</source>
+        <translation type="unfinished">&amp;Czcionka tekstu azjatyckiego:</translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation type="unfinished">Standardowy</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">Kursywa</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">Pogrubienie</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">Pogrubiona kursywa</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished">(Brak)</translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation type="unfinished">Czcionka %1 nie jest dostępna w systemie. Tekst pojawi się w czcionce zastępczej. Czy mimo to nadal chcesz jej użyć?</translation>
+    </message>
+    <message>
+        <source>The number must be between %1 and %2.</source>
+        <translation type="unfinished">Liczba musi się zawierać w przedziale między %1 i %2.</translation>
+    </message>
+    <message>
+        <source>This is not a valid number.</source>
+        <translation type="unfinished">Nieprawidłowa liczba.</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished">Ten styl czcionki nie jest dostępny.</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all new documents based on the %1 template.</source>
+        <translation type="unfinished">Czy chcesz zmienić domyślne ustawienia czcionki?
+Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie %1.</translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished">Zapisywanie nie powiodło się. Szablon Normaly jest zajęty.</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished">Nieprawidłowa wielkość.</translation>
+    </message>
+    <message>
+        <source>Measurement must be between %1 pt and %2 pt</source>
+        <translation type="unfinished">Pomiar musi się zawierać w przedziale między %1 pkt i %2 pkt</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished">Do środka</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Do dołu</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GLOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXT OUTLINE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LINE</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11830,10 +12986,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
-        <translation variants="yes">
-            <lengthvariant>Łącze do poprzedniego nagłówka i stopki</lengthvariant>
-            <lengthvariant>Nagłówek i stopka - łącze do poprzedniego</lengthvariant>
-        </translation>
+        <translation>Łącze do poprzedniego nagłówka i stopki</translation>
     </message>
 </context>
 <context>
@@ -11859,7 +13012,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Pokaż wiersz nagłówka</translation>
+        <translation>Pokaż linię nagłówka</translation>
     </message>
 </context>
 <context>
@@ -11873,7 +13026,18 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsHeaderLineMoreColorCommand</name>
     <message>
         <source>Show Header Line Color</source>
-        <translation>Pokaż kolor wiersza nagłówka</translation>
+        <translation>Kolor linii nagłówka</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHorizontalLineDlg</name>
+    <message>
+        <source>Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11940,24 +13104,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>1 line</source>
-        <translation variants="yes">
-            <lengthvariant>1 wiersz</lengthvariant>
-            <lengthvariant>1 linia</lengthvariant>
-        </translation>
+        <translation>1 wiersz</translation>
     </message>
     <message>
         <source>2 lines</source>
-        <translation variants="yes">
-            <lengthvariant>2 wiersze</lengthvariant>
-            <lengthvariant>2 linie</lengthvariant>
-        </translation>
+        <translation>2 wiersze</translation>
     </message>
     <message>
         <source>%1 lines</source>
-        <translation variants="yes">
-            <lengthvariant>%1 wierszy</lengthvariant>
-            <lengthvariant>%1 linii</lengthvariant>
-        </translation>
+        <translation>%1 wierszy</translation>
     </message>
     <message>
         <source>: %1 pt</source>
@@ -11975,7 +13130,6 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsLocateWidget</name>
     <message>
         <source>Welcome Back</source>
-        <translatorcomment>Witamy z powrotem</translatorcomment>
         <translation>Witamy ponownie</translation>
     </message>
     <message>
@@ -12009,6 +13163,10 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>yyyy years MM months dd days</source>
         <translation type="obsolete">yyyy lat MM miesięcy dd dni</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
@@ -12080,11 +13238,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Narrow</source>
-        <translation variants="yes">
-            <lengthvariant>Wąskie</lengthvariant>
-            <lengthvariant>Wąski</lengthvariant>
-            <lengthvariant>Zwęź</lengthvariant>
-        </translation>
+        <translation>Wąskie</translation>
     </message>
     <message>
         <source>Moderate</source>
@@ -12177,10 +13331,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsPageNumStartCommand</name>
     <message>
         <source>Page Number Start</source>
-        <translation variants="yes">
-            <lengthvariant>Rozpocznij numerację stron</lengthvariant>
-            <lengthvariant>Początek numeru strony</lengthvariant>
-        </translation>
+        <translation>Początek numeru strony</translation>
     </message>
 </context>
 <context>
@@ -12198,17 +13349,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsPageOrientationModel</name>
     <message>
         <source>Portrait</source>
-        <translation variants="yes">
-            <lengthvariant>Pionowa</lengthvariant>
-            <lengthvariant>Pionowo</lengthvariant>
-        </translation>
+        <translation>Pionowa</translation>
     </message>
     <message>
         <source>Landscape</source>
-        <translation variants="yes">
-            <lengthvariant>Pozioma</lengthvariant>
-            <lengthvariant>Poziomo</lengthvariant>
-        </translation>
+        <translation>Pozioma</translation>
     </message>
 </context>
 <context>
@@ -12246,31 +13391,19 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Legal_CN</source>
-        <translation variants="yes">
-            <lengthvariant>Prawny_CN</lengthvariant>
-            <lengthvariant>Legal_CN</lengthvariant>
-        </translation>
+        <translation>Legal_CN</translation>
     </message>
     <message>
         <source>Letter_CN</source>
-        <translation variants="yes">
-            <lengthvariant>List_CN</lengthvariant>
-            <lengthvariant>Letter_CN</lengthvariant>
-        </translation>
+        <translation>Letter_CN</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation variants="yes">
-            <lengthvariant>Prawny</lengthvariant>
-            <lengthvariant>Legal</lengthvariant>
-        </translation>
+        <translation>Legal</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation variants="yes">
-            <lengthvariant>List</lengthvariant>
-            <lengthvariant>Letter</lengthvariant>
-        </translation>
+        <translation>Letter</translation>
     </message>
     <message>
         <source>cm</source>
@@ -12294,10 +13427,103 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsParagraphDlg</name>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished">Nieprawidłowa wielkość.</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation>Uprawnienia</translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>Użytkownik został uwierzytelniony do wyświetlania tego dokumentu jako:	</translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="obsolete">Nazwa użytkownika</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>Zmień użytkownika...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>Masz następujące uprawnienia:</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>Wyświetlanie</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Edycja</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Kopiowanie</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Drukowanie</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Zapisywanie</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>Eksportowanie</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation>Programowy dostęp do dokumentu</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>Pełna kontrola</translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="obsolete">Data wygaśnięcia uprawnienia:</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation>(N/D)</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="obsolete">Zażądaj dodatkowych uprawnień... </translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>Nazwa użytkownika</translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation>Uprawnienie wygaśnie:</translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation>Zażądaj dodatkowych uprawnień...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPictureButton</name>
+    <message>
+        <source>Click here to insert pictures.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>In Line With Text</source>
-        <translation>Równo z tekstem</translation>
+        <translation type="obsolete">Równo z tekstem</translation>
     </message>
     <message>
         <source>Square</source>
@@ -12317,11 +13543,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Through</source>
-        <translation>Przez</translation>
+        <translation>Na wskroś</translation>
     </message>
     <message>
         <source>Top and Bottom</source>
-        <translation>Od góry i dołu</translation>
+        <translation>Góra i dół</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>Równo z tekstem</translation>
     </message>
 </context>
 <context>
@@ -12351,10 +13581,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
-        <translation variants="yes">
-            <lengthvariant>Makro &quot;%1&quot; już istnieje. Czy zamienić istniejące makro?</lengthvariant>
-            <lengthvariant>Makro &quot;%1&quot; już istnieje. Czy chcesz zastąpić istniejące makro?</lengthvariant>
-        </translation>
+        <translation>Makro &quot;%1&quot; już istnieje. Czy zamienić istniejące makro?</translation>
     </message>
     <message>
         <source>You cannot record a macro to a locked file</source>
@@ -12372,34 +13599,62 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsReviewPane</name>
     <message>
         <source>REVIEWPANE</source>
-        <translation variants="yes">
+        <translation type="obsolete" variants="yes">
             <lengthvariant>Okienko recenzowania</lengthvariant>
             <lengthvariant>Okienko przeglądu</lengthvariant>
         </translation>
     </message>
     <message>
         <source> Part</source>
-        <translation> Utwór</translation>
+        <translation type="obsolete"> Utwór</translation>
     </message>
     <message>
         <source>Insert: </source>
-        <translation>Wstaw: </translation>
+        <translation type="obsolete">Wstaw: </translation>
     </message>
     <message>
         <source>Delete: </source>
-        <translation>Usuń: </translation>
+        <translation type="obsolete">Usuń: </translation>
     </message>
     <message>
         <source>Format: </source>
-        <translation>Format: </translation>
+        <translation type="obsolete">Format: </translation>
     </message>
     <message>
         <source>Comment: </source>
-        <translation>Komentarz: </translation>
+        <translation type="obsolete">Komentarz: </translation>
     </message>
     <message>
         <source>Revision: </source>
-        <translation>Poprawka: </translation>
+        <translation type="obsolete">Poprawka: </translation>
+    </message>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation>Okienko recenzowania</translation>
+    </message>
+    <message>
+        <source>Insertions: %1</source>
+        <translation>Wstawienia: %1</translation>
+    </message>
+    <message>
+        <source>Deletions: %1</source>
+        <translation>Usunięcia: %1</translation>
+    </message>
+    <message>
+        <source>Formatting: %1</source>
+        <translation>Formatowanie: %1</translation>
+    </message>
+    <message>
+        <source>Comments: %1</source>
+        <translation>Komentarze: %1</translation>
+    </message>
+    <message>
+        <source>Revision: %1</source>
+        <translation type="obsolete">Poprawki: %1</translation>
+    </message>
+    <message>
+        <source>Revisions: %1</source>
+        <translation>Poprawki: %1</translation>
     </message>
 </context>
 <context>
@@ -12428,6 +13683,21 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsShapeLayoutDlg</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Położenie</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Rozmiar</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsShowFirstPageNumCommand</name>
     <message>
         <source>Show First Page Number</source>
@@ -12438,10 +13708,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsShowHeaderLineModel</name>
     <message>
         <source>No Line</source>
-        <translation variants="yes">
-            <lengthvariant>Bez wiersza</lengthvariant>
-            <lengthvariant>Bez linii</lengthvariant>
-        </translation>
+        <translation>Bez linii</translation>
     </message>
 </context>
 <context>
@@ -12503,10 +13770,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Page Number &amp;Start</source>
-        <translation variants="yes">
-            <lengthvariant>R&amp;ozpocznij numerację stron</lengthvariant>
-            <lengthvariant>P&amp;oczątek numeru strony</lengthvariant>
-        </translation>
+        <translation>&amp;Początek numeru strony</translation>
     </message>
     <message>
         <source>Header: </source>
@@ -12574,7 +13838,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Align center</source>
-        <translation>Wyrównaj do środka</translation>
+        <translation>Wyrównaj do środka w poziomie</translation>
     </message>
     <message>
         <source>Align right</source>
@@ -12621,6 +13885,13 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
     </message>
 </context>
 <context>
@@ -12677,6 +13948,29 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>Poziom powiększenia</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>&amp;Procent:</translation>
+    </message>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation>&amp;Cała strona</translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation>Szerokość &amp;strony</translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation>Szerokość &amp;tekstu</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStyleGalleryModel</name>
     <message>
         <source>Styles</source>
@@ -12687,7 +13981,6 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     <name>KxWpsStyleGalleryModelItem</name>
     <message>
         <source>Modify Style</source>
-        <translatorcomment>Modyfikowanie stylu</translatorcomment>
         <translation>Modyfikuj styl</translation>
     </message>
     <message>
@@ -12696,17 +13989,35 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsSubWindow</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automatycznie</translation>
+        <translation type="obsolete">Automatycznie</translation>
     </message>
 </context>
 <context>
     <name>KxWpsTableFillColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translation type="obsolete">Bez wypełnienia</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished">Bez koloru</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTabsDlg</name>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Wszystkie</translation>
     </message>
 </context>
 <context>
@@ -12753,15 +14064,67 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation>Szablony Word(*.wpt);;Word - dodatki(*.wll);;Wszystkie pliki(*.*)</translation>
+        <translation type="obsolete">Szablony programu Word (*.wpt);;Dodatki programu Word (*.wll);;Wszystkie pliki (*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
-        <translation>Typowy szablon Normalny.WPT jest otwarty.</translation>
+        <translation type="obsolete">Wspólny szablon Normaly. WPT otwiera do załadowania.</translation>
     </message>
     <message>
         <source>Full path:</source>
         <translation>Pełna ścieżka:</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
+        <translation>Czy na pewno chcesz usunąć pakiet rozszerzenia XML na tym komputerze?</translation>
+    </message>
+    <message>
+        <source>XML Schema</source>
+        <translation>Schemat XML</translation>
+    </message>
+    <message>
+        <source>Add XMLExtend Pack</source>
+        <translation>Dodaj pakiet rozszerzenia XML</translation>
+    </message>
+    <message>
+        <source>XMLExtend Pack Instruction List(*.xml)</source>
+        <translation>Lista instrukcji pakietu rozszerzenia XML (*.xml)</translation>
+    </message>
+    <message>
+        <source>Add Schema</source>
+        <translation>Dodaj schemat</translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation>Schemat XML (*.xsd;*.xml);;Rozszerzenia XML (*.xml)</translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation>Nie można zainstalować rozszerzenia xml lub schematu xml.</translation>
+    </message>
+    <message>
+        <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
+        <translation>wybranego schematu nie można użyć w dokumencie. Schemat jest niedopuszczalny lub nieprawidłowy, może być potrzebny inny schemat, aby kontynuować uruchomienie.</translation>
+    </message>
+    <message>
+        <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
+        <translation>Ta operacja usunie wszystkie elementy XmlNodes w %1, czy chcesz kontynuować?</translation>
+    </message>
+    <message>
+        <source> [disabled] </source>
+        <translation> [wyłączone] </translation>
+    </message>
+    <message>
+        <source>Load the template or add-ins may cause an application exception, you sure you want to enable?</source>
+        <translation>Załadowanie szablonu lub dodatków może powodować wyjątek aplikacji. Czy na pewno chcesz włączyć?</translation>
+    </message>
+    <message>
+        <source>Word Templates(*.dotx; *.dotm; *.dot; *.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Template Normal.dotm has opened to load.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12799,20 +14162,28 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsTpFormatting</name>
+    <message>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>Automatycznie</translation>
+        <translation type="obsolete">Automatycznie</translation>
     </message>
 </context>
 <context>
     <name>KxWpsWaterMarkGalleryModel</name>
     <message>
         <source>Custom</source>
-        <translation variants="yes">
-            <lengthvariant>Niestandardowy</lengthvariant>
-            <lengthvariant>Niestandardowe</lengthvariant>
-        </translation>
+        <translation>Niestandardowy</translation>
     </message>
 </context>
 <context>
@@ -12835,31 +14206,557 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>KxWpsWidgetChildShapePosition</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Położenie</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation type="unfinished">Po&amp;ziomo:</translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished">pkt, 2, -1584, 1584, 1</translation>
+    </message>
+    <message>
+        <source>&amp;From:</source>
+        <translation type="unfinished">&amp;Od:</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation type="unfinished">&amp;Pionowo:</translation>
+    </message>
+    <message>
+        <source>F&amp;rom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetHorizontalLine</name>
+    <message>
+        <source>%, 1, 1, 100, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation type="unfinished">pkt, 2, 0,05, 1584, 1</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pkt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished">Wyrównanie</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;enter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Measure in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use solid color(no shade)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetPosition</name>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Book layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation type="unfinished">Wewnątrz</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation type="unfinished">Na zewnątrz</translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished">w&amp;zględnie do</translation>
+    </message>
+    <message>
+        <source>&amp;Relative position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Margines</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished">Akapit</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished">pkt, 2, -1584, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Opcje</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Poziomo</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Pionowo</translation>
+    </message>
+    <message>
+        <source>relative t&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Absolute po&amp;sition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>belo&amp;w</source>
+        <translation type="unfinished">poniże&amp;j</translation>
+    </message>
+    <message>
+        <source>Absolute &amp;position</source>
+        <translation type="unfinished">&amp;Położenie bezwzględne</translation>
+    </message>
+    <message>
+        <source>&amp;to the right of</source>
+        <translation type="unfinished">&amp;do prawej</translation>
+    </message>
+    <message>
+        <source>o&amp;f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;relative to</source>
+        <translation type="unfinished">&amp;względnie do</translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="unfinished">Kolumna</translation>
+    </message>
+    <message>
+        <source>Character</source>
+        <translation type="unfinished">Znak</translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Do dołu</translation>
+    </message>
+    <message>
+        <source>&amp;Alignment</source>
+        <translation type="unfinished">&amp;Wyrównanie</translation>
+    </message>
+    <message>
+        <source>Allow o&amp;verlap</source>
+        <translation type="unfinished">Zezwalaj na z&amp;achodzenie</translation>
+    </message>
+    <message>
+        <source>Layout in table &amp;cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, -1000, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Move object with text</source>
+        <translation type="unfinished">&amp;Przenieś obiekt z tekstem</translation>
+    </message>
+    <message>
+        <source>&amp;Lock anchor</source>
+        <translation type="unfinished">&amp;Zablokuj kotwicę</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetSize</name>
+    <message>
+        <source>Absolut&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;lative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>degree, 0, -3600, 3600, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 0, 0, 10675, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pkt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Lock &amp;aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 168480, 1</source>
+        <translation type="unfinished">pkt, 2, 0, 168480, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation type="unfinished">&amp;Szerokość:</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;bsolute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>relative &amp;to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished">w&amp;zględnie do</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Margines</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, 1, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished">Skala</translation>
+    </message>
+    <message>
+        <source>Original size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetTextWrapping</name>
+    <message>
+        <source>Wrapping style</source>
+        <translation type="unfinished">Styl otaczania</translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation type="unfinished">K&amp;wadrat</translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation type="unfinished">&amp;Przylegle</translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation type="unfinished">Na w&amp;skroś</translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation type="unfinished">&amp;Góra i dół</translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation type="unfinished">Prz&amp;ed tekstem</translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation type="unfinished">&amp;Równo z tekstem</translation>
+    </message>
+    <message>
+        <source>Wrap text</source>
+        <translation type="unfinished">Zawijaj tekst</translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation type="unfinished">Po obu &amp;stronach</translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation type="unfinished">Tylko w &amp;lewo</translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation type="unfinished">Tylko w &amp;prawo</translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation type="unfinished">Tylko &amp;największa</translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation type="unfinished">Odległość od tekstu</translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pkt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation type="unfinished">Z &amp;lewej</translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation type="unfinished">Z &amp;dołu</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation type="unfinished">Z &amp;prawej</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWordArtInsertCommand</name>
+    <message>
+        <source>Your text here</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsWrapTextWidget</name>
     <message>
         <source>close</source>
-        <translation>zamknij</translation>
+        <translation type="obsolete">zamknij</translation>
     </message>
     <message>
         <source>title</source>
-        <translation>tytuł</translation>
+        <translation type="obsolete">tytuł</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Layout options</source>
+        <translation>Opcje układu</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaLibraryDlg</name>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation>Dodaj schemat XML</translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation>Schemat XML (*.xsd;*.xml);;Rozszerzenia XML (*.xml)</translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation>Nie można zainstalować rozszerzenia xml lub schematu xml.</translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation>Biblioteka schematów</translation>
+    </message>
+    <message>
+        <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
+        <translation>Spowoduje to usunięcie schematu i wszystkich skojarzonych plików z biblioteki schematów. To może mieć wpływ na aplikacje używające tego schematu. Czy chcesz kontynuować?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaSettingDlg</name>
+    <message>
+        <source>you must provide the URI name of the schema.</source>
+        <translation>należy podać nazwę URI schematu.</translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation>Biblioteka schematów</translation>
+    </message>
+    <message>
+        <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
+remove the schema with the duplicate URI, and then add the schema you specified.</source>
+        <translation>Określony schemat korzysta z identyfikatora URI używanego już przez inny schemat. Kliknij przycisk Przeglądaj, aby określić schemat używający innego identyfikatora URI, lub kliknij przycisk Anuluj, usuń schemat ze zduplikowanym identyfikatorem URI, a następnie dodaj wcześniej określany schemat.</translation>
+    </message>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation>Dodaj schemat XML</translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation>Schemat XML (*.xsd;*.xml);;Rozszerzenia XML (*.xml)</translation>
     </message>
 </context>
 <context>
     <name>KxWpsZoomCommand</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation variants="yes">
-            <lengthvariant>Ta wielkość jest nieprawidłowa.</lengthvariant>
-            <lengthvariant>Nieprawidłowa wielkość.</lengthvariant>
-        </translation>
+        <translation>Nieprawidłowa wielkość.</translation>
     </message>
 </context>
 <context>
     <name>KxZoomDlg</name>
     <message>
         <source>The measurement must be between %1 and %2.</source>
-        <translation>Pomiar musi zawierać się pomiędzy %1 a %2.</translation>
+        <translation>Wielkość musi się zawierać w przedziale między %1 i %2.</translation>
     </message>
 </context>
 <context>
@@ -12885,15 +14782,15 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>The number input must be between 1 and 63.</source>
-        <translation>Liczba wejściowa musi zawierać się pomiędzy 1 a 63.</translation>
+        <translation>Liczba wejściowa musi się zawierać w przedziale między 1 i 63.</translation>
     </message>
     <message>
         <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
-        <translation>&quot;%1&quot; jest już otwarty. Ponowne otwarcie spowoduje utratę nie zapisanych zmian. Czy na pewno chcesz ponownie otworzyć &quot;%2&quot;?</translation>
+        <translation type="obsolete">&quot;%1&quot; jest już otwarty. Ponowne otwarcie spowoduje utratę nie zapisanych zmian. Czy na pewno chcesz ponownie otworzyć &quot;%2&quot;?</translation>
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
-        <translation>Pliki WPS Writer 2007-2010(*.wpsx)</translation>
+        <translation>Pliki programu WPS Writer 2007–2010(*.wpsx)</translation>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
@@ -12901,11 +14798,27 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>No macros is currently recording. Click to begin recording a new macro.</source>
-        <translation>W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
+        <translation type="obsolete">W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation>Szablon Kingsoft Writer 2007/2010(*.wptx)</translation>
+        <translation>Szablon programu Kingsoft Writer 2007/2010(*.wptx)</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation>W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
+    </message>
+    <message>
+        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
+        <translation type="obsolete">Zmieniono domyślne ustawienia drukowania kopert na drukarce. Zmiany mogą być nieprawidłowe. Kliknij przycisk Resetuj, aby powrócić do ustawień domyślnych.</translation>
+    </message>
+    <message>
+        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
+        <translation type="obsolete">WPS zaleca sposób podawania kopert pokazany wyżej. Jeżeli ta metoda okaże się niewłaściwa, wybierz inną, odpowiednią dla drukarki.</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12958,6 +14871,125 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
 </context>
 <context>
+    <name>WpsContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished">Do środka</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Do dołu</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Poziomo</translation>
+    </message>
+    <message>
+        <source>Vertical from Right to Left</source>
+        <translation type="unfinished">W pionie od prawej do lewej</translation>
+    </message>
+    <message>
+        <source>Vertical from Left to Right</source>
+        <translation type="unfinished">W pionie od lewej do prawej</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Asian Charaters 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not rotate text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
@@ -12965,6 +14997,192 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
             <lengthvariant>dialogitest</lengthvariant>
             <lengthvariant>dialogstest</lengthvariant>
         </translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation>Eksportuj plik OFD</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>Ogólne</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation>Zapisz &amp;do</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>&amp;Przeglądaj...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation>Zakres stron</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Wszystkie</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation>Bieżąca strona</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation>Zaznaczenie</translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation>Strona(y)</translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation>Od:</translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>Do:</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation>Opcje eksportowania</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation>Podsumowani&amp;e</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation>Nowy &amp;komentarz</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation>&amp;Hiperłącze</translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation>Łą&amp;cza przypisów dolnych i końcowych</translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation>Symbole zastępcze</translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation>&amp;Zakładka</translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation>&amp;Poprawka</translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation>&amp;Konwertuj style tytułów do zakładek</translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation>Konwertuj inne &amp;style do zakładek</translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation>Konwertuj &amp;niestandardowe style do zakładek</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation>Ustawienia uprawnień</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation>Hasło ochrony ustawi&amp;eń uprawnień</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation>&amp;Hasło:</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation>&amp;Potwierdź:</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation>Zezwalaj na mo&amp;dyfikowanie</translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation>Zezwalaj na kopiowani&amp;e</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation>Zezwalaj na &amp;dodawanie komentarzy</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation>Uprawnienia d&amp;rukowania:</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation>Uprawnienia drukowania</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation>Drukowanie niedozwolone</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation>Niska jakość druku</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation>Drukowanie bez ograniczeń</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation>Hasło otwarcia pliku:</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation>Ha&amp;sło:</translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation>&amp;Potwierdź:</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation>Eksportuj do pliku OFD</translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation>&amp;Otwórz plik</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -13027,35 +15245,23 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na mo&amp;dyfikowanie</lengthvariant>
-            <lengthvariant>Dozwolone mo&amp;dyfikowanie</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na mo&amp;dyfikowanie</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na kopiowani&amp;e</lengthvariant>
-            <lengthvariant>Dozwolone kopiowani&amp;e</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na kopiowani&amp;e</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation variants="yes">
-            <lengthvariant>Zezwalaj na &amp;dodawanie komentarzy</lengthvariant>
-            <lengthvariant>Dozwolone dodawanie ko&amp;mentarzy</lengthvariant>
-        </translation>
+        <translation>Zezwalaj na &amp;dodawanie komentarzy</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation variants="yes">
-            <lengthvariant>Drukowanie niedozwolone</lengthvariant>
-            <lengthvariant>Drukowanie nie jest dozwolone</lengthvariant>
-        </translation>
+        <translation>Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation>&amp;Hasło:</translation>
+        <translation>Ha&amp;sło:</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
@@ -13063,10 +15269,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation variants="yes">
-            <lengthvariant>Zamknij po zakończeniu e&amp;ksportowania</lengthvariant>
-            <lengthvariant>Zamknij po zakończeniu e&amp;ksportu</lengthvariant>
-        </translation>
+        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -13074,10 +15277,7 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Summar&amp;y information</source>
-        <translation variants="yes">
-            <lengthvariant>Informacje podsumowując&amp;e</lengthvariant>
-            <lengthvariant>Podsumowani&amp;e</lengthvariant>
-        </translation>
+        <translation>Podsumowani&amp;e</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
@@ -13089,11 +15289,11 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation>Hasło do ochrony ustawienia uprawnień</translation>
+        <translation type="obsolete">Hasło ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
+        <translation type="obsolete">Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -13117,7 +15317,43 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Export PDF File</source>
-        <translation>Eksportuj plik Adobe PDF</translation>
+        <translation>Eksportuj plik PDF</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation>Zakres stron</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Wszystkie</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation>Bieżąca strona</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation>Zaznaczenie</translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation>Strona(y)</translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation>Od:</translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>Do:</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation>Hasło ochrony ustawi&amp;eń uprawnień</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
 </context>
 <context>
@@ -13140,7 +15376,34 @@ Zaznacz części dokumentu i wybierz użytkowników, którzy będą mogli dowoln
     </message>
     <message>
         <source>Export to PDF File</source>
-        <translation>Eksportuj do pliku Adobe PDF</translation>
+        <translation>Eksportuj do pliku PDF</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">Tezaurus</translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="obsolete">Bieżący wyraz:</translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="obsolete">Alternatywy:</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">Zamień</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Anuluj</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="obsolete">&amp;Zamień</translation>
     </message>
 </context>
 <context>

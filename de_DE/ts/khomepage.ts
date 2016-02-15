@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation>Herunterladen von &quot;%1&quot; fehlgeschlagen.</translation>
+        <translation>Herunterladen von „%1“ fehlgeschlagen.</translation>
     </message>
 </context>
 <context>
@@ -61,11 +61,16 @@
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation>Dies ist die neuste Version</translation>
+        <translation>Dies ist die neuste Version.</translation>
     </message>
     <message>
         <source>Version is too old.</source>
         <translation>Version ist zu alt.</translation>
+    </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation>Online-Vorlagen Pro</translation>
     </message>
 </context>
 </TS>

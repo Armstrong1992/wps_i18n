@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="ar">
+<defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KHomepage</name>
     <message>
@@ -41,6 +42,11 @@
     </message>
     <message>
         <source>Online Templates</source>
+        <comment>title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates Pro</source>
         <comment>title</comment>
         <translation type="unfinished"></translation>
     </message>

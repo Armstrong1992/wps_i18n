@@ -15,10 +15,7 @@
     </message>
     <message>
         <source>Still Need:</source>
-        <translation variants="yes">
-            <lengthvariant>Wciąż potrzebne:</lengthvariant>
-            <lengthvariant>Wciąż potrzeba:</lengthvariant>
-        </translation>
+        <translation>Wciąż potrzeba:</translation>
     </message>
     <message>
         <source> Minute</source>
@@ -61,14 +58,11 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do formatu WPS Writer</translation>
+        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation variants="yes">
-            <lengthvariant>Wciąż potrzebne: przeliczanie</lengthvariant>
-            <lengthvariant>Wciąż potrzeba: przeliczania</lengthvariant>
-        </translation>
+        <translation>Wciąż potrzeba: przeliczania</translation>
     </message>
 </context>
 <context>
@@ -99,17 +93,11 @@
     </message>
     <message>
         <source>Add notes to slide:</source>
-        <translation variants="yes">
-            <lengthvariant>Dodaj notatki do slajdu:</lengthvariant>
-            <lengthvariant>Dodawanie notatek do slajdu:</lengthvariant>
-        </translation>
+        <translation>Dodaj notatki do slajdu:</translation>
     </message>
     <message>
         <source>Right(&amp;R)</source>
-        <translation variants="yes">
-            <lengthvariant>Po prawej (&amp;R)</lengthvariant>
-            <lengthvariant>Z prawej (&amp;R)</lengthvariant>
-        </translation>
+        <translation>Po prawej (&amp;R)</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
@@ -121,10 +109,7 @@
     </message>
     <message>
         <source>Right(&amp;H)</source>
-        <translation variants="yes">
-            <lengthvariant>Po prawej (&amp;H)</lengthvariant>
-            <lengthvariant>Z prawej (&amp;H)</lengthvariant>
-        </translation>
+        <translation>Po prawej (&amp;H)</translation>
     </message>
     <message>
         <source>Add blank line to slide:</source>
@@ -168,7 +153,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do formatu WPS Writer</translation>
+        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
@@ -195,7 +180,7 @@
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Napotkano błąd podczas konwersji dokumentu do formatu WPS Writer.</translation>
+        <translation>Napotkano błąd podczas konwersji do dokumentu programu WPS Writer.</translation>
     </message>
 </context>
 <context>
@@ -208,25 +193,17 @@
         <source>This is a valid number.
 Please input slide number or slide range. 
 For example, 1,3,5-9.</source>
-        <translation variants="yes">
-            <lengthvariant>To jest prawidłowa liczba.
+        <translation>To jest prawidłowa liczba.
 Proszę wprowadź numer slajdu lub zakres slajdów. 
-Na przykład, 1,3,5-9.</lengthvariant>
-            <lengthvariant>To jest prawidłową liczbą.
-Proszę wprowadź numer slajdu lub zakres slajdów. 
-Na przykład, 1,3,5-9.</lengthvariant>
-        </translation>
+Na przykład, 1,3,5-9.</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba musi być 1 lub 2.</lengthvariant>
-            <lengthvariant>Możliwe liczby: 1 lub 2.</lengthvariant>
-        </translation>
+        <translation>Liczba musi być 1 lub 2.</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation>Dokument Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
+        <translation>Dokument programu Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -242,10 +219,7 @@ Na przykład, 1,3,5-9.</lengthvariant>
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation variants="yes">
-            <lengthvariant>Liczba musi być 1, 2, 3 lub 4.</lengthvariant>
-            <lengthvariant>Możliwe liczby: 1, 2, 3 lub 4.</lengthvariant>
-        </translation>
+        <translation>Liczba musi być 1, 2, 3 lub 4.</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
@@ -253,14 +227,15 @@ Na przykład, 1,3,5-9.</lengthvariant>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation>Dokument WPS Writer (*.wps)</translation>
+        <translation>Dokument programu WPS Writer (*.wps)</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation variants="yes">
-            <lengthvariant>Nazwa już istnieje. Nie możesz zapisać pliku z taką samą nazwą jak inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</lengthvariant>
-            <lengthvariant>Nazwa już istnieje. Nie możesz zapisać pliku o tej samej nazwie co inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</lengthvariant>
-        </translation>
+        <translation>Nazwa już istnieje. Nie możesz zapisać pliku z taką samą nazwą jak inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</translation>
+    </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

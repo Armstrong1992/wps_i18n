@@ -49,5 +49,10 @@
         <comment>title</comment>
         <translation>Modèles en ligne</translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation>Modèles en ligne Pro</translation>
+    </message>
 </context>
 </TS>

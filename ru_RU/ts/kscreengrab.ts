@@ -6,91 +6,92 @@
     <name>KScreenGrabDialog</name>
     <message>
         <source>Rect Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Прямоугольник</translation>
     </message>
     <message>
         <source>Ellipse Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Эллипс</translation>
     </message>
     <message>
         <source>Arrow Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Кисть</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать в буфер</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выход</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Готово</translation>
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать область заново</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы абсорбировать линию,
+нажмите клавишу ALT</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Захват%1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать панель инструментов</translation>
     </message>
 </context>
 <context>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"></translation>
+        <translation>Скопировано в буфер обмена.</translation>
     </message>
 </context>
 </TS>

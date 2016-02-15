@@ -49,5 +49,10 @@
         <comment>title</comment>
         <translation>Из Интернета</translation>
     </message>
+    <message>
+        <source>Online Templates Pro</source>
+        <comment>title</comment>
+        <translation>Набор шаблонов в Интернете для профессионального использования</translation>
+    </message>
 </context>
 </TS>
